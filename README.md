@@ -1,6 +1,6 @@
 # SAL.tmlanguage
 
-A language definition for Nyquist SAL. Currently only tested in Sublime Text 3.
+A language definition for Nyquist SAL along with indentation defaults. Tested in both Sublime Text 2 and 3. 
 
 # Screenshots
 
