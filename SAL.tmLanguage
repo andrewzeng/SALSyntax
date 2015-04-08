@@ -22,7 +22,7 @@
 			<key>comment</key>
 			<string>control keywords</string>
 			<key>match</key>
-			<string>\b(loop|while|for|if|else|then|from|return|by|begin|end|when|unless|repeat|until|finally)\b</string>
+			<string>\b(loop|while|for|if|else|then|from|return|by|below|to|above|downto|begin|end|when|unless|repeat|until|finally)\b</string>
 			<key>name</key>
 			<string>keyword.control.sal</string>
 		</dict>
