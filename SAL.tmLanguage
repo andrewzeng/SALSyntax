@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fileTypes</key>
+	<array>
+		<string>sal</string>
+	</array>
+	<key>name</key>
+	<string>SAL</string>
+	<key>patterns</key>
+	<array>
+		<dict>
+			<key>comment</key>
+			<string>other keywords</string>
+			<key>match</key>
+			<string>\b(function|load|define)\b</string>
+			<key>name</key>
+			<string>keyword.other.sal</string>
+		</dict>
+		<dict>
+			<key>comment</key>
+			<string>control keywords</string>
+			<key>match</key>
+			<string>\b(loop|while|for|if|else|then|from|return|by|begin|end|when|unless|repeat|until|finally)\b</string>
+			<key>name</key>
+			<string>keyword.control.sal</string>
+		</dict>
+		<dict>
+			<key>comment</key>
+			<string>constants</string>
+			<key>match</key>
+			<string>\s#(t|f)\b</string>
+			<key>name</key>
+			<string>constant.language.sal</string>
+		</dict>
+		<dict>
+			<key>comment</key>
+			<string>variable constants</string>
+			<key>match</key>
+			<string>\*([\w*-]+)\*</string>
+			<key>name</key>
+			<string>constant.language.sal</string>
+		</dict>
+		<dict>
+			<key>comment</key>
+			<string>control keywords</string>
+			<key>match</key>
+			<string>\b(nil)\b</string>
+			<key>name</key>
+			<string>constant.language.sal</string>
+		</dict>
+		<dict>
+			<key>comment</key>
+			<string>control keywords</string>
+			<key>match</key>
+			<string>\b(?i)(?!cf0|bs7)([cdefgab][fs]?[0-7])\b</string>
+			<key>name</key>
+			<string>constant.other.sal</string>
+		</dict>
+		<dict>
+			<key>comment</key>
+			<string>symbols</string>
+			<key>match</key>
+			<string>(~|@)</string>
+			<key>name</key>
+			<string>constant.character</string>
+		</dict>
+		<dict>
+			<key>begin</key>
+			<string>\"</string>
+			<key>comment</key>
+			<string>string</string>
+			<key>contentName</key>
+			<string>string.quoted.double</string>
+			<key>end</key>
+			<string>\"</string>
+		</dict>
+		<dict>
+			<key>begin</key>
+			<string>(;)</string>
+			<key>beginCaptures</key>
+			<dict>
+				<key>1</key>
+				<dict>
+					<key>name</key>
+					<string>comment.line</string>
+				</dict>
+			</dict>
+			<key>comment</key>
+			<string>comment</string>
+			<key>contentName</key>
+			<string>comment.line</string>
+			<key>end</key>
+			<string>$</string>
+		</dict>
+		<dict>
+			<key>comment</key>
+			<string>support functions</string>
+			<key>match</key>
+			<string>\b(exec|set|play|print|display|exit|variable|with|chdir)\b</string>
+			<key>name</key>
+			<string>support.type</string>
+		</dict>
+		<dict>
+			<key>comment</key>
+			<string>numbers</string>
+			<key>match</key>
+			<string>\b(\d+)\b</string>
+			<key>name</key>
+			<string>constant.numeric.sal</string>
+		</dict>
+		<dict>
+			<key>comment</key>
+			<string>key variables</string>
+			<key>match</key>
+			<string>(?&lt;=[\s,(])([\w*-]*)\:\s</string>
+			<key>name</key>
+			<string>variable.parameter.sal</string>
+		</dict>
+		<dict>
+			<key>comment</key>
+			<string>quote variables</string>
+			<key>match</key>
+			<string>\:(.+?)\b</string>
+			<key>name</key>
+			<string>constant.other.sal</string>
+		</dict>
+		<dict>
+			<key>comment</key>
+			<string>function</string>
+			<key>match</key>
+			<string>\b([\w*-]*)(?=\()</string>
+			<key>name</key>
+			<string>support.function.sal</string>
+		</dict>
+		<dict>
+			<key>comment</key>
+			<string>conditional clause</string>
+			<key>match</key>
+			<string>(#\?)</string>
+			<key>name</key>
+			<string>support.function.sal</string>
+		</dict>
+	</array>
+	<key>scopeName</key>
+	<string>source.sal</string>
+	<key>uuid</key>
+	<string>d6a04b33-c765-483b-b91f-857168873f54</string>
+</dict>
+</plist>
