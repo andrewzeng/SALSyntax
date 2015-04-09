@@ -1,0 +1,2889 @@
+{
+  "scope": "source.sal", 
+  "completions": [
+    {
+      "trigger": "loop", 
+      "contents": "loop"
+    }, 
+    {
+      "trigger": "while", 
+      "contents": "while"
+    }, 
+    {
+      "trigger": "for", 
+      "contents": "for"
+    }, 
+    {
+      "trigger": "if", 
+      "contents": "if"
+    }, 
+    {
+      "trigger": "else", 
+      "contents": "else"
+    }, 
+    {
+      "trigger": "then", 
+      "contents": "then"
+    }, 
+    {
+      "trigger": "from", 
+      "contents": "from"
+    }, 
+    {
+      "trigger": "return", 
+      "contents": "return"
+    }, 
+    {
+      "trigger": "by", 
+      "contents": "by"
+    }, 
+    {
+      "trigger": "below", 
+      "contents": "below"
+    }, 
+    {
+      "trigger": "to", 
+      "contents": "to"
+    }, 
+    {
+      "trigger": "above", 
+      "contents": "above"
+    }, 
+    {
+      "trigger": "downto", 
+      "contents": "downto"
+    }, 
+    {
+      "trigger": "begin", 
+      "contents": "begin"
+    }, 
+    {
+      "trigger": "end", 
+      "contents": "end"
+    }, 
+    {
+      "trigger": "when", 
+      "contents": "when"
+    }, 
+    {
+      "trigger": "unless", 
+      "contents": "unless"
+    }, 
+    {
+      "trigger": "repeat", 
+      "contents": "repeat"
+    }, 
+    {
+      "trigger": "until", 
+      "contents": "until"
+    }, 
+    {
+      "trigger": "finally", 
+      "contents": "finally"
+    }, 
+    {
+      "trigger": "in", 
+      "contents": "in"
+    }, 
+    {
+      "trigger": "function", 
+      "contents": "function"
+    }, 
+    {
+      "trigger": "load", 
+      "contents": "load"
+    }, 
+    {
+      "trigger": "define", 
+      "contents": "define"
+    }, 
+    {
+      "trigger": "nil", 
+      "contents": "nil"
+    }, 
+    {
+      "trigger": "exec", 
+      "contents": "exec"
+    }, 
+    {
+      "trigger": "set", 
+      "contents": "set"
+    }, 
+    {
+      "trigger": "play", 
+      "contents": "play"
+    }, 
+    {
+      "trigger": "print", 
+      "contents": "print"
+    }, 
+    {
+      "trigger": "display", 
+      "contents": "display"
+    }, 
+    {
+      "trigger": "exit", 
+      "contents": "exit"
+    }, 
+    {
+      "trigger": "variable", 
+      "contents": "variable"
+    }, 
+    {
+      "trigger": "with", 
+      "contents": "with"
+    }, 
+    {
+      "trigger": "chdir", 
+      "contents": "chdir"
+    }, 
+    {
+      "trigger": "open", 
+      "contents": "open"
+    }, 
+    {
+      "trigger": "abs", 
+      "contents": "abs"
+    }, 
+    {
+      "trigger": "abs-env", 
+      "contents": "abs-env"
+    }, 
+    {
+      "trigger": "add-action-to-workspace", 
+      "contents": "add-action-to-workspace"
+    }, 
+    {
+      "trigger": "add-to-workspace", 
+      "contents": "add-to-workspace"
+    }, 
+    {
+      "trigger": "address-of", 
+      "contents": "address-of"
+    }, 
+    {
+      "trigger": "agc", 
+      "contents": "agc"
+    }, 
+    {
+      "trigger": "alloc", 
+      "contents": "alloc"
+    }, 
+    {
+      "trigger": "allpass2", 
+      "contents": "allpass2"
+    }, 
+    {
+      "trigger": "allpoles-from-lpc", 
+      "contents": "allpoles-from-lpc"
+    }, 
+    {
+      "trigger": "alpass", 
+      "contents": "alpass"
+    }, 
+    {
+      "trigger": "amosc", 
+      "contents": "amosc"
+    }, 
+    {
+      "trigger": "and", 
+      "contents": "and"
+    }, 
+    {
+      "trigger": "append", 
+      "contents": "append"
+    }, 
+    {
+      "trigger": "apply", 
+      "contents": "apply"
+    }, 
+    {
+      "trigger": "apply-banded-bass-boost", 
+      "contents": "apply-banded-bass-boost"
+    }, 
+    {
+      "trigger": "apply-banded-delay", 
+      "contents": "apply-banded-delay"
+    }, 
+    {
+      "trigger": "apply-banded-treble-boost", 
+      "contents": "apply-banded-treble-boost"
+    }, 
+    {
+      "trigger": "arc-sine-dist", 
+      "contents": "arc-sine-dist"
+    }, 
+    {
+      "trigger": "aref", 
+      "contents": "aref"
+    }, 
+    {
+      "trigger": "areson", 
+      "contents": "areson"
+    }, 
+    {
+      "trigger": "args", 
+      "contents": "args"
+    }, 
+    {
+      "trigger": "arrayp", 
+      "contents": "arrayp"
+    }, 
+    {
+      "trigger": "assoc", 
+      "contents": "assoc"
+    }, 
+    {
+      "trigger": "at", 
+      "contents": "at"
+    }, 
+    {
+      "trigger": "at-abs", 
+      "contents": "at-abs"
+    }, 
+    {
+      "trigger": "atan", 
+      "contents": "atan"
+    }, 
+    {
+      "trigger": "atom", 
+      "contents": "atom"
+    }, 
+    {
+      "trigger": "atone", 
+      "contents": "atone"
+    }, 
+    {
+      "trigger": "autonorm-off", 
+      "contents": "autonorm-off"
+    }, 
+    {
+      "trigger": "autonorm-on", 
+      "contents": "autonorm-on"
+    }, 
+    {
+      "trigger": "backquote", 
+      "contents": "backquote"
+    }, 
+    {
+      "trigger": "baktrace", 
+      "contents": "baktrace"
+    }, 
+    {
+      "trigger": "bandpass2", 
+      "contents": "bandpass2"
+    }, 
+    {
+      "trigger": "bernoulli-dist", 
+      "contents": "bernoulli-dist"
+    }, 
+    {
+      "trigger": "beta-dist", 
+      "contents": "beta-dist"
+    }, 
+    {
+      "trigger": "bigendianp", 
+      "contents": "bigendianp"
+    }, 
+    {
+      "trigger": "bilateral-exponential-dist", 
+      "contents": "bilateral-exponential-dist"
+    }, 
+    {
+      "trigger": "binomial-dist", 
+      "contents": "binomial-dist"
+    }, 
+    {
+      "trigger": "biquad", 
+      "contents": "biquad"
+    }, 
+    {
+      "trigger": "biquad-m", 
+      "contents": "biquad-m"
+    }, 
+    {
+      "trigger": "block", 
+      "contents": "block"
+    }, 
+    {
+      "trigger": "both-case-p", 
+      "contents": "both-case-p"
+    }, 
+    {
+      "trigger": "boundp", 
+      "contents": "boundp"
+    }, 
+    {
+      "trigger": "bowed", 
+      "contents": "bowed"
+    }, 
+    {
+      "trigger": "bowed-freq", 
+      "contents": "bowed-freq"
+    }, 
+    {
+      "trigger": "break", 
+      "contents": "break"
+    }, 
+    {
+      "trigger": "build-harmonic", 
+      "contents": "build-harmonic"
+    }, 
+    {
+      "trigger": "buzz", 
+      "contents": "buzz"
+    }, 
+    {
+      "trigger": "car", 
+      "contents": "car"
+    }, 
+    {
+      "trigger": "case", 
+      "contents": "case"
+    }, 
+    {
+      "trigger": "catch", 
+      "contents": "catch"
+    }, 
+    {
+      "trigger": "cauchy-dist", 
+      "contents": "cauchy-dist"
+    }, 
+    {
+      "trigger": "cdr", 
+      "contents": "cdr"
+    }, 
+    {
+      "trigger": "cerror", 
+      "contents": "cerror"
+    }, 
+    {
+      "trigger": "char", 
+      "contents": "char"
+    }, 
+    {
+      "trigger": "char-code", 
+      "contents": "char-code"
+    }, 
+    {
+      "trigger": "char-downcase", 
+      "contents": "char-downcase"
+    }, 
+    {
+      "trigger": "char-equal", 
+      "contents": "char-equal"
+    }, 
+    {
+      "trigger": "char-greaterp", 
+      "contents": "char-greaterp"
+    }, 
+    {
+      "trigger": "char-int", 
+      "contents": "char-int"
+    }, 
+    {
+      "trigger": "char-lessp", 
+      "contents": "char-lessp"
+    }, 
+    {
+      "trigger": "char-not-equal", 
+      "contents": "char-not-equal"
+    }, 
+    {
+      "trigger": "char-not-greaterp", 
+      "contents": "char-not-greaterp"
+    }, 
+    {
+      "trigger": "char-not-lessp", 
+      "contents": "char-not-lessp"
+    }, 
+    {
+      "trigger": "char-upcase", 
+      "contents": "char-upcase"
+    }, 
+    {
+      "trigger": "char/=", 
+      "contents": "char/="
+    }, 
+    {
+      "trigger": "char<", 
+      "contents": "char<"
+    }, 
+    {
+      "trigger": "char<=", 
+      "contents": "char<="
+    }, 
+    {
+      "trigger": "char=", 
+      "contents": "char="
+    }, 
+    {
+      "trigger": "char>", 
+      "contents": "char>"
+    }, 
+    {
+      "trigger": "char>=", 
+      "contents": "char>="
+    }, 
+    {
+      "trigger": "characterp", 
+      "contents": "characterp"
+    }, 
+    {
+      "trigger": "chorus", 
+      "contents": "chorus"
+    }, 
+    {
+      "trigger": "clarinet", 
+      "contents": "clarinet"
+    }, 
+    {
+      "trigger": "clarinet-all", 
+      "contents": "clarinet-all"
+    }, 
+    {
+      "trigger": "clarinet-freq", 
+      "contents": "clarinet-freq"
+    }, 
+    {
+      "trigger": "clean-up)", 
+      "contents": "clean-up)"
+    }, 
+    {
+      "trigger": "clip", 
+      "contents": "clip"
+    }, 
+    {
+      "trigger": "close", 
+      "contents": "close"
+    }, 
+    {
+      "trigger": "code-char", 
+      "contents": "code-char"
+    }, 
+    {
+      "trigger": "comb", 
+      "contents": "comb"
+    }, 
+    {
+      "trigger": "compress", 
+      "contents": "compress"
+    }, 
+    {
+      "trigger": "compress-map", 
+      "contents": "compress-map"
+    }, 
+    {
+      "trigger": "cond", 
+      "contents": "cond"
+    }, 
+    {
+      "trigger": "congen", 
+      "contents": "congen"
+    }, 
+    {
+      "trigger": "cons", 
+      "contents": "cons"
+    }, 
+    {
+      "trigger": "consp", 
+      "contents": "consp"
+    }, 
+    {
+      "trigger": "const", 
+      "contents": "const"
+    }, 
+    {
+      "trigger": "continue)", 
+      "contents": "continue)"
+    }, 
+    {
+      "trigger": "continuous-control-warp", 
+      "contents": "continuous-control-warp"
+    }, 
+    {
+      "trigger": "continuous-sound-warp", 
+      "contents": "continuous-sound-warp"
+    }, 
+    {
+      "trigger": "control", 
+      "contents": "control"
+    }, 
+    {
+      "trigger": "control-srate-abs", 
+      "contents": "control-srate-abs"
+    }, 
+    {
+      "trigger": "control-warp", 
+      "contents": "control-warp"
+    }, 
+    {
+      "trigger": "convolve", 
+      "contents": "convolve"
+    }, 
+    {
+      "trigger": "cos", 
+      "contents": "cos"
+    }, 
+    {
+      "trigger": "cue", 
+      "contents": "cue"
+    }, 
+    {
+      "trigger": "cue-file", 
+      "contents": "cue-file"
+    }, 
+    {
+      "trigger": "current-path", 
+      "contents": "current-path"
+    }, 
+    {
+      "trigger": "cxxr", 
+      "contents": "cxxr"
+    }, 
+    {
+      "trigger": "cxxxr", 
+      "contents": "cxxxr"
+    }, 
+    {
+      "trigger": "cxxxxr", 
+      "contents": "cxxxxr"
+    }, 
+    {
+      "trigger": "db-average", 
+      "contents": "db-average"
+    }, 
+    {
+      "trigger": "db-to-linear", 
+      "contents": "db-to-linear"
+    }, 
+    {
+      "trigger": "db-to-vel", 
+      "contents": "db-to-vel"
+    }, 
+    {
+      "trigger": "db-to-vel", 
+      "contents": "db-to-vel"
+    }, 
+    {
+      "trigger": "decf", 
+      "contents": "decf"
+    }, 
+    {
+      "trigger": "defmacro", 
+      "contents": "defmacro"
+    }, 
+    {
+      "trigger": "defun", 
+      "contents": "defun"
+    }, 
+    {
+      "trigger": "delete", 
+      "contents": "delete"
+    }, 
+    {
+      "trigger": "delete-if", 
+      "contents": "delete-if"
+    }, 
+    {
+      "trigger": "delete-if-not", 
+      "contents": "delete-if-not"
+    }, 
+    {
+      "trigger": "describe", 
+      "contents": "describe"
+    }, 
+    {
+      "trigger": "diff", 
+      "contents": "diff"
+    }, 
+    {
+      "trigger": "digit-char", 
+      "contents": "digit-char"
+    }, 
+    {
+      "trigger": "digit-char-p", 
+      "contents": "digit-char-p"
+    }, 
+    {
+      "trigger": "dribble", 
+      "contents": "dribble"
+    }, 
+    {
+      "trigger": "drum", 
+      "contents": "drum"
+    }, 
+    {
+      "trigger": "drum-loop", 
+      "contents": "drum-loop"
+    }, 
+    {
+      "trigger": "dtmf-tone", 
+      "contents": "dtmf-tone"
+    }, 
+    {
+      "trigger": "echoenabled", 
+      "contents": "echoenabled"
+    }, 
+    {
+      "trigger": "endp", 
+      "contents": "endp"
+    }, 
+    {
+      "trigger": "env", 
+      "contents": "env"
+    }, 
+    {
+      "trigger": "eq", 
+      "contents": "eq"
+    }, 
+    {
+      "trigger": "eq-band", 
+      "contents": "eq-band"
+    }, 
+    {
+      "trigger": "eq-highshelf", 
+      "contents": "eq-highshelf"
+    }, 
+    {
+      "trigger": "eq-lowshelf", 
+      "contents": "eq-lowshelf"
+    }, 
+    {
+      "trigger": "eql", 
+      "contents": "eql"
+    }, 
+    {
+      "trigger": "equal", 
+      "contents": "equal"
+    }, 
+    {
+      "trigger": "error", 
+      "contents": "error"
+    }, 
+    {
+      "trigger": "errset", 
+      "contents": "errset"
+    }, 
+    {
+      "trigger": "eval", 
+      "contents": "eval"
+    }, 
+    {
+      "trigger": "evalhook", 
+      "contents": "evalhook"
+    }, 
+    {
+      "trigger": "evenp", 
+      "contents": "evenp"
+    }, 
+    {
+      "trigger": "event-dur", 
+      "contents": "event-dur"
+    }, 
+    {
+      "trigger": "event-end", 
+      "contents": "event-end"
+    }, 
+    {
+      "trigger": "event-expression", 
+      "contents": "event-expression"
+    }, 
+    {
+      "trigger": "event-get-attr", 
+      "contents": "event-get-attr"
+    }, 
+    {
+      "trigger": "event-has-attr", 
+      "contents": "event-has-attr"
+    }, 
+    {
+      "trigger": "event-set-attr", 
+      "contents": "event-set-attr"
+    }, 
+    {
+      "trigger": "event-set-dur", 
+      "contents": "event-set-dur"
+    }, 
+    {
+      "trigger": "event-set-expression", 
+      "contents": "event-set-expression"
+    }, 
+    {
+      "trigger": "event-set-time", 
+      "contents": "event-set-time"
+    }, 
+    {
+      "trigger": "event-time", 
+      "contents": "event-time"
+    }, 
+    {
+      "trigger": "exp", 
+      "contents": "exp"
+    }, 
+    {
+      "trigger": "exp-dec", 
+      "contents": "exp-dec"
+    }, 
+    {
+      "trigger": "expand", 
+      "contents": "expand"
+    }, 
+    {
+      "trigger": "exponential-dist", 
+      "contents": "exponential-dist"
+    }, 
+    {
+      "trigger": "expr-get-attr", 
+      "contents": "expr-get-attr"
+    }, 
+    {
+      "trigger": "expr-has-attr", 
+      "contents": "expr-has-attr"
+    }, 
+    {
+      "trigger": "expr-set-attr", 
+      "contents": "expr-set-attr"
+    }, 
+    {
+      "trigger": "expt", 
+      "contents": "expt"
+    }, 
+    {
+      "trigger": "extract", 
+      "contents": "extract"
+    }, 
+    {
+      "trigger": "extract-abs", 
+      "contents": "extract-abs"
+    }, 
+    {
+      "trigger": "fboundp", 
+      "contents": "fboundp"
+    }, 
+    {
+      "trigger": "feedback-delay", 
+      "contents": "feedback-delay"
+    }, 
+    {
+      "trigger": "filep", 
+      "contents": "filep"
+    }, 
+    {
+      "trigger": "find-in-xlisp-path", 
+      "contents": "find-in-xlisp-path"
+    }, 
+    {
+      "trigger": "first", 
+      "contents": "first"
+    }, 
+    {
+      "trigger": "flange", 
+      "contents": "flange"
+    }, 
+    {
+      "trigger": "flatc", 
+      "contents": "flatc"
+    }, 
+    {
+      "trigger": "flatsize", 
+      "contents": "flatsize"
+    }, 
+    {
+      "trigger": "float", 
+      "contents": "float"
+    }, 
+    {
+      "trigger": "floatp", 
+      "contents": "floatp"
+    }, 
+    {
+      "trigger": "flute", 
+      "contents": "flute"
+    }, 
+    {
+      "trigger": "flute-all", 
+      "contents": "flute-all"
+    }, 
+    {
+      "trigger": "flute-freq", 
+      "contents": "flute-freq"
+    }, 
+    {
+      "trigger": "fmfb", 
+      "contents": "fmfb"
+    }, 
+    {
+      "trigger": "fmlfo", 
+      "contents": "fmlfo"
+    }, 
+    {
+      "trigger": "fmosc", 
+      "contents": "fmosc"
+    }, 
+    {
+      "trigger": "follow", 
+      "contents": "follow"
+    }, 
+    {
+      "trigger": "force-srate", 
+      "contents": "force-srate"
+    }, 
+    {
+      "trigger": "format", 
+      "contents": "format"
+    }, 
+    {
+      "trigger": "fourth", 
+      "contents": "fourth"
+    }, 
+    {
+      "trigger": "funcall", 
+      "contents": "funcall"
+    }, 
+    {
+      "trigger": "gamma-dist", 
+      "contents": "gamma-dist"
+    }, 
+    {
+      "trigger": "gate", 
+      "contents": "gate"
+    }, 
+    {
+      "trigger": "gaussian-dist", 
+      "contents": "gaussian-dist"
+    }, 
+    {
+      "trigger": "gc", 
+      "contents": "gc"
+    }, 
+    {
+      "trigger": "gcd", 
+      "contents": "gcd"
+    }, 
+    {
+      "trigger": "gensym", 
+      "contents": "gensym"
+    }, 
+    {
+      "trigger": "geometric-dist", 
+      "contents": "geometric-dist"
+    }, 
+    {
+      "trigger": "get", 
+      "contents": "get"
+    }, 
+    {
+      "trigger": "get-duration", 
+      "contents": "get-duration"
+    }, 
+    {
+      "trigger": "get-env", 
+      "contents": "get-env"
+    }, 
+    {
+      "trigger": "get-lambda-expression", 
+      "contents": "get-lambda-expression"
+    }, 
+    {
+      "trigger": "get-loud", 
+      "contents": "get-loud"
+    }, 
+    {
+      "trigger": "get-output-stream-list", 
+      "contents": "get-output-stream-list"
+    }, 
+    {
+      "trigger": "get-output-stream-string", 
+      "contents": "get-output-stream-string"
+    }, 
+    {
+      "trigger": "get-slider-value", 
+      "contents": "get-slider-value"
+    }, 
+    {
+      "trigger": "get-sustain", 
+      "contents": "get-sustain"
+    }, 
+    {
+      "trigger": "get-temp-path", 
+      "contents": "get-temp-path"
+    }, 
+    {
+      "trigger": "get-transpose", 
+      "contents": "get-transpose"
+    }, 
+    {
+      "trigger": "get-user", 
+      "contents": "get-user"
+    }, 
+    {
+      "trigger": "get-warp", 
+      "contents": "get-warp"
+    }, 
+    {
+      "trigger": "go", 
+      "contents": "go"
+    }, 
+    {
+      "trigger": "grindef", 
+      "contents": "grindef"
+    }, 
+    {
+      "trigger": "hash", 
+      "contents": "hash"
+    }, 
+    {
+      "trigger": "highpass2", 
+      "contents": "highpass2"
+    }, 
+    {
+      "trigger": "highpass4", 
+      "contents": "highpass4"
+    }, 
+    {
+      "trigger": "highpass6", 
+      "contents": "highpass6"
+    }, 
+    {
+      "trigger": "highpass8", 
+      "contents": "highpass8"
+    }, 
+    {
+      "trigger": "hp", 
+      "contents": "hp"
+    }, 
+    {
+      "trigger": "hyperbolic-cosine-dist", 
+      "contents": "hyperbolic-cosine-dist"
+    }, 
+    {
+      "trigger": "hz-to-step", 
+      "contents": "hz-to-step"
+    }, 
+    {
+      "trigger": "hzosc", 
+      "contents": "hzosc"
+    }, 
+    {
+      "trigger": "incf", 
+      "contents": "incf"
+    }, 
+    {
+      "trigger": "info", 
+      "contents": "info"
+    }, 
+    {
+      "trigger": "int-char", 
+      "contents": "int-char"
+    }, 
+    {
+      "trigger": "integerp", 
+      "contents": "integerp"
+    }, 
+    {
+      "trigger": "integrate", 
+      "contents": "integrate"
+    }, 
+    {
+      "trigger": "intern", 
+      "contents": "intern"
+    }, 
+    {
+      "trigger": "interpolate", 
+      "contents": "interpolate"
+    }, 
+    {
+      "trigger": "intersection", 
+      "contents": "intersection"
+    }, 
+    {
+      "trigger": "jcrev", 
+      "contents": "jcrev"
+    }, 
+    {
+      "trigger": "lambda", 
+      "contents": "lambda"
+    }, 
+    {
+      "trigger": "last", 
+      "contents": "last"
+    }, 
+    {
+      "trigger": "length", 
+      "contents": "length"
+    }, 
+    {
+      "trigger": "length-of-beat", 
+      "contents": "length-of-beat"
+    }, 
+    {
+      "trigger": "lfo", 
+      "contents": "lfo"
+    }, 
+    {
+      "trigger": "linear-dist", 
+      "contents": "linear-dist"
+    }, 
+    {
+      "trigger": "linear-to-db", 
+      "contents": "linear-to-db"
+    }, 
+    {
+      "trigger": "linear-to-vel", 
+      "contents": "linear-to-vel"
+    }, 
+    {
+      "trigger": "list", 
+      "contents": "list"
+    }, 
+    {
+      "trigger": "listdir", 
+      "contents": "listdir"
+    }, 
+    {
+      "trigger": "listp", 
+      "contents": "listp"
+    }, 
+    {
+      "trigger": "local-to-global", 
+      "contents": "local-to-global"
+    }, 
+    {
+      "trigger": "log", 
+      "contents": "log"
+    }, 
+    {
+      "trigger": "logand", 
+      "contents": "logand"
+    }, 
+    {
+      "trigger": "logior", 
+      "contents": "logior"
+    }, 
+    {
+      "trigger": "logistic-dist", 
+      "contents": "logistic-dist"
+    }, 
+    {
+      "trigger": "lognot", 
+      "contents": "lognot"
+    }, 
+    {
+      "trigger": "logxor", 
+      "contents": "logxor"
+    }, 
+    {
+      "trigger": "loud", 
+      "contents": "loud"
+    }, 
+    {
+      "trigger": "loud-abs", 
+      "contents": "loud-abs"
+    }, 
+    {
+      "trigger": "lower-case-p", 
+      "contents": "lower-case-p"
+    }, 
+    {
+      "trigger": "lowpass2", 
+      "contents": "lowpass2"
+    }, 
+    {
+      "trigger": "lowpass4", 
+      "contents": "lowpass4"
+    }, 
+    {
+      "trigger": "lowpass6", 
+      "contents": "lowpass6"
+    }, 
+    {
+      "trigger": "lowpass8", 
+      "contents": "lowpass8"
+    }, 
+    {
+      "trigger": "lp", 
+      "contents": "lp"
+    }, 
+    {
+      "trigger": "lpc-frame-err", 
+      "contents": "lpc-frame-err"
+    }, 
+    {
+      "trigger": "lpc-frame-filter-coefs", 
+      "contents": "lpc-frame-filter-coefs"
+    }, 
+    {
+      "trigger": "lpc-frame-rms1", 
+      "contents": "lpc-frame-rms1"
+    }, 
+    {
+      "trigger": "lpc-frame-rms2", 
+      "contents": "lpc-frame-rms2"
+    }, 
+    {
+      "trigger": "lpreson", 
+      "contents": "lpreson"
+    }, 
+    {
+      "trigger": "macroexpand", 
+      "contents": "macroexpand"
+    }, 
+    {
+      "trigger": "macroexpand-1", 
+      "contents": "macroexpand-1"
+    }, 
+    {
+      "trigger": "make-accumulate", 
+      "contents": "make-accumulate"
+    }, 
+    {
+      "trigger": "make-accumulation", 
+      "contents": "make-accumulation"
+    }, 
+    {
+      "trigger": "make-array", 
+      "contents": "make-array"
+    }, 
+    {
+      "trigger": "make-copier", 
+      "contents": "make-copier"
+    }, 
+    {
+      "trigger": "make-cycle", 
+      "contents": "make-cycle"
+    }, 
+    {
+      "trigger": "make-eval", 
+      "contents": "make-eval"
+    }, 
+    {
+      "trigger": "make-heap", 
+      "contents": "make-heap"
+    }, 
+    {
+      "trigger": "make-length", 
+      "contents": "make-length"
+    }, 
+    {
+      "trigger": "make-line", 
+      "contents": "make-line"
+    }, 
+    {
+      "trigger": "make-lpanal-iterator", 
+      "contents": "make-lpanal-iterator"
+    }, 
+    {
+      "trigger": "make-lpc-file-iterator", 
+      "contents": "make-lpc-file-iterator"
+    }, 
+    {
+      "trigger": "make-markov", 
+      "contents": "make-markov"
+    }, 
+    {
+      "trigger": "make-palindrome", 
+      "contents": "make-palindrome"
+    }, 
+    {
+      "trigger": "make-product", 
+      "contents": "make-product"
+    }, 
+    {
+      "trigger": "make-random", 
+      "contents": "make-random"
+    }, 
+    {
+      "trigger": "make-string-input-stream", 
+      "contents": "make-string-input-stream"
+    }, 
+    {
+      "trigger": "make-string-output-stream)", 
+      "contents": "make-string-output-stream)"
+    }, 
+    {
+      "trigger": "make-sum", 
+      "contents": "make-sum"
+    }, 
+    {
+      "trigger": "make-symbol", 
+      "contents": "make-symbol"
+    }, 
+    {
+      "trigger": "make-window", 
+      "contents": "make-window"
+    }, 
+    {
+      "trigger": "maketable", 
+      "contents": "maketable"
+    }, 
+    {
+      "trigger": "mandolin", 
+      "contents": "mandolin"
+    }, 
+    {
+      "trigger": "mapc", 
+      "contents": "mapc"
+    }, 
+    {
+      "trigger": "mapcar", 
+      "contents": "mapcar"
+    }, 
+    {
+      "trigger": "mapl", 
+      "contents": "mapl"
+    }, 
+    {
+      "trigger": "maplist", 
+      "contents": "maplist"
+    }, 
+    {
+      "trigger": "markov-create-rules", 
+      "contents": "markov-create-rules"
+    }, 
+    {
+      "trigger": "max", 
+      "contents": "max"
+    }, 
+    {
+      "trigger": "member", 
+      "contents": "member"
+    }, 
+    {
+      "trigger": "midi-show", 
+      "contents": "midi-show"
+    }, 
+    {
+      "trigger": "midi-show-file", 
+      "contents": "midi-show-file"
+    }, 
+    {
+      "trigger": "min", 
+      "contents": "min"
+    }, 
+    {
+      "trigger": "minusp", 
+      "contents": "minusp"
+    }, 
+    {
+      "trigger": "modalbar", 
+      "contents": "modalbar"
+    }, 
+    {
+      "trigger": "mult", 
+      "contents": "mult"
+    }, 
+    {
+      "trigger": "mult", 
+      "contents": "mult"
+    }, 
+    {
+      "trigger": "nband", 
+      "contents": "nband"
+    }, 
+    {
+      "trigger": "nband-range", 
+      "contents": "nband-range"
+    }, 
+    {
+      "trigger": "nconc", 
+      "contents": "nconc"
+    }, 
+    {
+      "trigger": "noise", 
+      "contents": "noise"
+    }, 
+    {
+      "trigger": "not", 
+      "contents": "not"
+    }, 
+    {
+      "trigger": "notch2", 
+      "contents": "notch2"
+    }, 
+    {
+      "trigger": "nrev", 
+      "contents": "nrev"
+    }, 
+    {
+      "trigger": "nstring-downcase", 
+      "contents": "nstring-downcase"
+    }, 
+    {
+      "trigger": "nstring-upcase", 
+      "contents": "nstring-upcase"
+    }, 
+    {
+      "trigger": "nth", 
+      "contents": "nth"
+    }, 
+    {
+      "trigger": "nthcdr", 
+      "contents": "nthcdr"
+    }, 
+    {
+      "trigger": "null", 
+      "contents": "null"
+    }, 
+    {
+      "trigger": "numberp", 
+      "contents": "numberp"
+    }, 
+    {
+      "trigger": "Ny:all", 
+      "contents": "Ny:all"
+    }, 
+    {
+      "trigger": "objectp", 
+      "contents": "objectp"
+    }, 
+    {
+      "trigger": "oddp", 
+      "contents": "oddp"
+    }, 
+    {
+      "trigger": "open-binary", 
+      "contents": "open-binary"
+    }, 
+    {
+      "trigger": "or", 
+      "contents": "or"
+    }, 
+    {
+      "trigger": "osc", 
+      "contents": "osc"
+    }, 
+    {
+      "trigger": "osc-enable", 
+      "contents": "osc-enable"
+    }, 
+    {
+      "trigger": "osc-note", 
+      "contents": "osc-note"
+    }, 
+    {
+      "trigger": "osc-pulse", 
+      "contents": "osc-pulse"
+    }, 
+    {
+      "trigger": "osc-saw", 
+      "contents": "osc-saw"
+    }, 
+    {
+      "trigger": "osc-tri", 
+      "contents": "osc-tri"
+    }, 
+    {
+      "trigger": "pan", 
+      "contents": "pan"
+    }, 
+    {
+      "trigger": "params-scale", 
+      "contents": "params-scale"
+    }, 
+    {
+      "trigger": "params-transpose", 
+      "contents": "params-transpose"
+    }, 
+    {
+      "trigger": "partial", 
+      "contents": "partial"
+    }, 
+    {
+      "trigger": "patternp", 
+      "contents": "patternp"
+    }, 
+    {
+      "trigger": "peak", 
+      "contents": "peak"
+    }, 
+    {
+      "trigger": "peek", 
+      "contents": "peek"
+    }, 
+    {
+      "trigger": "peek-char", 
+      "contents": "peek-char"
+    }, 
+    {
+      "trigger": "phaser", 
+      "contents": "phaser"
+    }, 
+    {
+      "trigger": "piano-midi", 
+      "contents": "piano-midi"
+    }, 
+    {
+      "trigger": "piano-midi2file", 
+      "contents": "piano-midi2file"
+    }, 
+    {
+      "trigger": "piano-note", 
+      "contents": "piano-note"
+    }, 
+    {
+      "trigger": "piano-note-2", 
+      "contents": "piano-note-2"
+    }, 
+    {
+      "trigger": "pitshift", 
+      "contents": "pitshift"
+    }, 
+    {
+      "trigger": "pl-center", 
+      "contents": "pl-center"
+    }, 
+    {
+      "trigger": "pl-doppler", 
+      "contents": "pl-doppler"
+    }, 
+    {
+      "trigger": "pl-left", 
+      "contents": "pl-left"
+    }, 
+    {
+      "trigger": "pl-pan2d", 
+      "contents": "pl-pan2d"
+    }, 
+    {
+      "trigger": "pl-position", 
+      "contents": "pl-position"
+    }, 
+    {
+      "trigger": "pl-rear", 
+      "contents": "pl-rear"
+    }, 
+    {
+      "trigger": "pl-right", 
+      "contents": "pl-right"
+    }, 
+    {
+      "trigger": "play-file", 
+      "contents": "play-file"
+    }, 
+    {
+      "trigger": "pluck", 
+      "contents": "pluck"
+    }, 
+    {
+      "trigger": "plusp", 
+      "contents": "plusp"
+    }, 
+    {
+      "trigger": "poisson-dist", 
+      "contents": "poisson-dist"
+    }, 
+    {
+      "trigger": "poke", 
+      "contents": "poke"
+    }, 
+    {
+      "trigger": "pop", 
+      "contents": "pop"
+    }, 
+    {
+      "trigger": "power", 
+      "contents": "power"
+    }, 
+    {
+      "trigger": "pprint", 
+      "contents": "pprint"
+    }, 
+    {
+      "trigger": "prcrev", 
+      "contents": "prcrev"
+    }, 
+    {
+      "trigger": "prin1", 
+      "contents": "prin1"
+    }, 
+    {
+      "trigger": "princ", 
+      "contents": "princ"
+    }, 
+    {
+      "trigger": "prod", 
+      "contents": "prod"
+    }, 
+    {
+      "trigger": "prod", 
+      "contents": "prod"
+    }, 
+    {
+      "trigger": "profile", 
+      "contents": "profile"
+    }, 
+    {
+      "trigger": "prog1", 
+      "contents": "prog1"
+    }, 
+    {
+      "trigger": "prog2", 
+      "contents": "prog2"
+    }, 
+    {
+      "trigger": "progn", 
+      "contents": "progn"
+    }, 
+    {
+      "trigger": "progv", 
+      "contents": "progv"
+    }, 
+    {
+      "trigger": "prologic", 
+      "contents": "prologic"
+    }, 
+    {
+      "trigger": "psetq", 
+      "contents": "psetq"
+    }, 
+    {
+      "trigger": "push", 
+      "contents": "push"
+    }, 
+    {
+      "trigger": "putprop", 
+      "contents": "putprop"
+    }, 
+    {
+      "trigger": "pwe", 
+      "contents": "pwe"
+    }, 
+    {
+      "trigger": "pwe-list", 
+      "contents": "pwe-list"
+    }, 
+    {
+      "trigger": "pwer", 
+      "contents": "pwer"
+    }, 
+    {
+      "trigger": "pwer-list", 
+      "contents": "pwer-list"
+    }, 
+    {
+      "trigger": "pwev", 
+      "contents": "pwev"
+    }, 
+    {
+      "trigger": "pwev-list", 
+      "contents": "pwev-list"
+    }, 
+    {
+      "trigger": "pwevr", 
+      "contents": "pwevr"
+    }, 
+    {
+      "trigger": "pwevr-list", 
+      "contents": "pwevr-list"
+    }, 
+    {
+      "trigger": "pwl", 
+      "contents": "pwl"
+    }, 
+    {
+      "trigger": "pwl-list", 
+      "contents": "pwl-list"
+    }, 
+    {
+      "trigger": "pwlr", 
+      "contents": "pwlr"
+    }, 
+    {
+      "trigger": "pwlr-list", 
+      "contents": "pwlr-list"
+    }, 
+    {
+      "trigger": "pwlv", 
+      "contents": "pwlv"
+    }, 
+    {
+      "trigger": "pwlv-list", 
+      "contents": "pwlv-list"
+    }, 
+    {
+      "trigger": "pwlvr", 
+      "contents": "pwlvr"
+    }, 
+    {
+      "trigger": "pwlvr-list", 
+      "contents": "pwlvr-list"
+    }, 
+    {
+      "trigger": "quantize", 
+      "contents": "quantize"
+    }, 
+    {
+      "trigger": "quote", 
+      "contents": "quote"
+    }, 
+    {
+      "trigger": "ramp", 
+      "contents": "ramp"
+    }, 
+    {
+      "trigger": "random", 
+      "contents": "random"
+    }, 
+    {
+      "trigger": "read", 
+      "contents": "read"
+    }, 
+    {
+      "trigger": "read-byte", 
+      "contents": "read-byte"
+    }, 
+    {
+      "trigger": "read-char", 
+      "contents": "read-char"
+    }, 
+    {
+      "trigger": "read-float", 
+      "contents": "read-float"
+    }, 
+    {
+      "trigger": "read-int", 
+      "contents": "read-int"
+    }, 
+    {
+      "trigger": "read-line", 
+      "contents": "read-line"
+    }, 
+    {
+      "trigger": "real-random", 
+      "contents": "real-random"
+    }, 
+    {
+      "trigger": "recip", 
+      "contents": "recip"
+    }, 
+    {
+      "trigger": "rem", 
+      "contents": "rem"
+    }, 
+    {
+      "trigger": "remove", 
+      "contents": "remove"
+    }, 
+    {
+      "trigger": "remove-if", 
+      "contents": "remove-if"
+    }, 
+    {
+      "trigger": "remove-if-not", 
+      "contents": "remove-if-not"
+    }, 
+    {
+      "trigger": "remprop", 
+      "contents": "remprop"
+    }, 
+    {
+      "trigger": "require-from", 
+      "contents": "require-from"
+    }, 
+    {
+      "trigger": "resample", 
+      "contents": "resample"
+    }, 
+    {
+      "trigger": "reson", 
+      "contents": "reson"
+    }, 
+    {
+      "trigger": "rest", 
+      "contents": "rest"
+    }, 
+    {
+      "trigger": "restore", 
+      "contents": "restore"
+    }, 
+    {
+      "trigger": "return-from", 
+      "contents": "return-from"
+    }, 
+    {
+      "trigger": "reverb", 
+      "contents": "reverb"
+    }, 
+    {
+      "trigger": "reverse", 
+      "contents": "reverse"
+    }, 
+    {
+      "trigger": "rms", 
+      "contents": "rms"
+    }, 
+    {
+      "trigger": "room", 
+      "contents": "room"
+    }, 
+    {
+      "trigger": "rplaca", 
+      "contents": "rplaca"
+    }, 
+    {
+      "trigger": "rplacd", 
+      "contents": "rplacd"
+    }, 
+    {
+      "trigger": "rrandom", 
+      "contents": "rrandom"
+    }, 
+    {
+      "trigger": "s-abs", 
+      "contents": "s-abs"
+    }, 
+    {
+      "trigger": "s-add-to", 
+      "contents": "s-add-to"
+    }, 
+    {
+      "trigger": "s-exp", 
+      "contents": "s-exp"
+    }, 
+    {
+      "trigger": "s-log", 
+      "contents": "s-log"
+    }, 
+    {
+      "trigger": "s-max", 
+      "contents": "s-max"
+    }, 
+    {
+      "trigger": "s-min", 
+      "contents": "s-min"
+    }, 
+    {
+      "trigger": "s-overwrite", 
+      "contents": "s-overwrite"
+    }, 
+    {
+      "trigger": "s-plot", 
+      "contents": "s-plot"
+    }, 
+    {
+      "trigger": "s-print-tree", 
+      "contents": "s-print-tree"
+    }, 
+    {
+      "trigger": "s-read", 
+      "contents": "s-read"
+    }, 
+    {
+      "trigger": "s-read-reverse", 
+      "contents": "s-read-reverse"
+    }, 
+    {
+      "trigger": "s-rest", 
+      "contents": "s-rest"
+    }, 
+    {
+      "trigger": "s-reverse", 
+      "contents": "s-reverse"
+    }, 
+    {
+      "trigger": "s-save", 
+      "contents": "s-save"
+    }, 
+    {
+      "trigger": "s-sqrt", 
+      "contents": "s-sqrt"
+    }, 
+    {
+      "trigger": "sampler", 
+      "contents": "sampler"
+    }, 
+    {
+      "trigger": "save", 
+      "contents": "save"
+    }, 
+    {
+      "trigger": "save-lpc-file", 
+      "contents": "save-lpc-file"
+    }, 
+    {
+      "trigger": "save-workspace", 
+      "contents": "save-workspace"
+    }, 
+    {
+      "trigger": "sax", 
+      "contents": "sax"
+    }, 
+    {
+      "trigger": "sax-all", 
+      "contents": "sax-all"
+    }, 
+    {
+      "trigger": "sax-freq", 
+      "contents": "sax-freq"
+    }, 
+    {
+      "trigger": "scale", 
+      "contents": "scale"
+    }, 
+    {
+      "trigger": "scale-db", 
+      "contents": "scale-db"
+    }, 
+    {
+      "trigger": "scale-srate", 
+      "contents": "scale-srate"
+    }, 
+    {
+      "trigger": "score-adjacent-events", 
+      "contents": "score-adjacent-events"
+    }, 
+    {
+      "trigger": "score-append", 
+      "contents": "score-append"
+    }, 
+    {
+      "trigger": "score-apply", 
+      "contents": "score-apply"
+    }, 
+    {
+      "trigger": "score-filter-length", 
+      "contents": "score-filter-length"
+    }, 
+    {
+      "trigger": "score-filter-overlap", 
+      "contents": "score-filter-overlap"
+    }, 
+    {
+      "trigger": "score-gen", 
+      "contents": "score-gen"
+    }, 
+    {
+      "trigger": "score-get-begin", 
+      "contents": "score-get-begin"
+    }, 
+    {
+      "trigger": "score-get-end", 
+      "contents": "score-get-end"
+    }, 
+    {
+      "trigger": "score-indexof", 
+      "contents": "score-indexof"
+    }, 
+    {
+      "trigger": "score-last-indexof", 
+      "contents": "score-last-indexof"
+    }, 
+    {
+      "trigger": "score-merge", 
+      "contents": "score-merge"
+    }, 
+    {
+      "trigger": "score-must-have-begin-end", 
+      "contents": "score-must-have-begin-end"
+    }, 
+    {
+      "trigger": "score-play", 
+      "contents": "score-play"
+    }, 
+    {
+      "trigger": "score-print", 
+      "contents": "score-print"
+    }, 
+    {
+      "trigger": "score-randomize-start", 
+      "contents": "score-randomize-start"
+    }, 
+    {
+      "trigger": "score-read", 
+      "contents": "score-read"
+    }, 
+    {
+      "trigger": "score-read-smf", 
+      "contents": "score-read-smf"
+    }, 
+    {
+      "trigger": "score-repeat", 
+      "contents": "score-repeat"
+    }, 
+    {
+      "trigger": "score-scale", 
+      "contents": "score-scale"
+    }, 
+    {
+      "trigger": "score-select", 
+      "contents": "score-select"
+    }, 
+    {
+      "trigger": "score-set-begin", 
+      "contents": "score-set-begin"
+    }, 
+    {
+      "trigger": "score-set-end", 
+      "contents": "score-set-end"
+    }, 
+    {
+      "trigger": "score-shift", 
+      "contents": "score-shift"
+    }, 
+    {
+      "trigger": "score-sort", 
+      "contents": "score-sort"
+    }, 
+    {
+      "trigger": "score-sorted", 
+      "contents": "score-sorted"
+    }, 
+    {
+      "trigger": "score-stretch", 
+      "contents": "score-stretch"
+    }, 
+    {
+      "trigger": "score-stretch-to-length", 
+      "contents": "score-stretch-to-length"
+    }, 
+    {
+      "trigger": "score-sustain", 
+      "contents": "score-sustain"
+    }, 
+    {
+      "trigger": "score-transpose", 
+      "contents": "score-transpose"
+    }, 
+    {
+      "trigger": "score-voice", 
+      "contents": "score-voice"
+    }, 
+    {
+      "trigger": "score-write", 
+      "contents": "score-write"
+    }, 
+    {
+      "trigger": "score-write-smf", 
+      "contents": "score-write-smf"
+    }, 
+    {
+      "trigger": "second", 
+      "contents": "second"
+    }, 
+    {
+      "trigger": "Self", 
+      "contents": "Self"
+    }, 
+    {
+      "trigger": "seq", 
+      "contents": "seq"
+    }, 
+    {
+      "trigger": "seqrep", 
+      "contents": "seqrep"
+    }, 
+    {
+      "trigger": "set-control-srate", 
+      "contents": "set-control-srate"
+    }, 
+    {
+      "trigger": "set-difference", 
+      "contents": "set-difference"
+    }, 
+    {
+      "trigger": "set-logical-stop", 
+      "contents": "set-logical-stop"
+    }, 
+    {
+      "trigger": "set-pitch-names", 
+      "contents": "set-pitch-names"
+    }, 
+    {
+      "trigger": "set-sound-srate", 
+      "contents": "set-sound-srate"
+    }, 
+    {
+      "trigger": "setdir", 
+      "contents": "setdir"
+    }, 
+    {
+      "trigger": "setf", 
+      "contents": "setf"
+    }, 
+    {
+      "trigger": "setq", 
+      "contents": "setq"
+    }, 
+    {
+      "trigger": "setup-console", 
+      "contents": "setup-console"
+    }, 
+    {
+      "trigger": "sf-granulate", 
+      "contents": "sf-granulate"
+    }, 
+    {
+      "trigger": "sf-info", 
+      "contents": "sf-info"
+    }, 
+    {
+      "trigger": "shape", 
+      "contents": "shape"
+    }, 
+    {
+      "trigger": "shift-time", 
+      "contents": "shift-time"
+    }, 
+    {
+      "trigger": "show-lpc-data", 
+      "contents": "show-lpc-data"
+    }, 
+    {
+      "trigger": "sim", 
+      "contents": "sim"
+    }, 
+    {
+      "trigger": "simrep", 
+      "contents": "simrep"
+    }, 
+    {
+      "trigger": "sin", 
+      "contents": "sin"
+    }, 
+    {
+      "trigger": "sine", 
+      "contents": "sine"
+    }, 
+    {
+      "trigger": "siosc", 
+      "contents": "siosc"
+    }, 
+    {
+      "trigger": "sitar", 
+      "contents": "sitar"
+    }, 
+    {
+      "trigger": "slope", 
+      "contents": "slope"
+    }, 
+    {
+      "trigger": "snd-abs", 
+      "contents": "snd-abs"
+    }, 
+    {
+      "trigger": "snd-add", 
+      "contents": "snd-add"
+    }, 
+    {
+      "trigger": "snd-allpoles", 
+      "contents": "snd-allpoles"
+    }, 
+    {
+      "trigger": "snd-alpass", 
+      "contents": "snd-alpass"
+    }, 
+    {
+      "trigger": "snd-alpasscv", 
+      "contents": "snd-alpasscv"
+    }, 
+    {
+      "trigger": "snd-alpassvv", 
+      "contents": "snd-alpassvv"
+    }, 
+    {
+      "trigger": "snd-amosc", 
+      "contents": "snd-amosc"
+    }, 
+    {
+      "trigger": "snd-areson", 
+      "contents": "snd-areson"
+    }, 
+    {
+      "trigger": "snd-aresoncv", 
+      "contents": "snd-aresoncv"
+    }, 
+    {
+      "trigger": "snd-aresonvc", 
+      "contents": "snd-aresonvc"
+    }, 
+    {
+      "trigger": "snd-aresonvv", 
+      "contents": "snd-aresonvv"
+    }, 
+    {
+      "trigger": "snd-atone", 
+      "contents": "snd-atone"
+    }, 
+    {
+      "trigger": "snd-atonev", 
+      "contents": "snd-atonev"
+    }, 
+    {
+      "trigger": "snd-avg", 
+      "contents": "snd-avg"
+    }, 
+    {
+      "trigger": "snd-bandedwg", 
+      "contents": "snd-bandedwg"
+    }, 
+    {
+      "trigger": "snd-biquad", 
+      "contents": "snd-biquad"
+    }, 
+    {
+      "trigger": "snd-bowed", 
+      "contents": "snd-bowed"
+    }, 
+    {
+      "trigger": "snd-bowed-freq", 
+      "contents": "snd-bowed-freq"
+    }, 
+    {
+      "trigger": "snd-buzz", 
+      "contents": "snd-buzz"
+    }, 
+    {
+      "trigger": "snd-chase", 
+      "contents": "snd-chase"
+    }, 
+    {
+      "trigger": "snd-clarinet", 
+      "contents": "snd-clarinet"
+    }, 
+    {
+      "trigger": "snd-clarinet-all", 
+      "contents": "snd-clarinet-all"
+    }, 
+    {
+      "trigger": "snd-clarinet-freq", 
+      "contents": "snd-clarinet-freq"
+    }, 
+    {
+      "trigger": "snd-clip", 
+      "contents": "snd-clip"
+    }, 
+    {
+      "trigger": "snd-compose", 
+      "contents": "snd-compose"
+    }, 
+    {
+      "trigger": "snd-congen", 
+      "contents": "snd-congen"
+    }, 
+    {
+      "trigger": "snd-const", 
+      "contents": "snd-const"
+    }, 
+    {
+      "trigger": "snd-convolve", 
+      "contents": "snd-convolve"
+    }, 
+    {
+      "trigger": "snd-copy", 
+      "contents": "snd-copy"
+    }, 
+    {
+      "trigger": "snd-coterm", 
+      "contents": "snd-coterm"
+    }, 
+    {
+      "trigger": "snd-delay", 
+      "contents": "snd-delay"
+    }, 
+    {
+      "trigger": "snd-delaycv", 
+      "contents": "snd-delaycv"
+    }, 
+    {
+      "trigger": "snd-down", 
+      "contents": "snd-down"
+    }, 
+    {
+      "trigger": "snd-exp", 
+      "contents": "snd-exp"
+    }, 
+    {
+      "trigger": "snd-extent", 
+      "contents": "snd-extent"
+    }, 
+    {
+      "trigger": "snd-fetch", 
+      "contents": "snd-fetch"
+    }, 
+    {
+      "trigger": "snd-fetch-array", 
+      "contents": "snd-fetch-array"
+    }, 
+    {
+      "trigger": "snd-fft", 
+      "contents": "snd-fft"
+    }, 
+    {
+      "trigger": "snd-flatten", 
+      "contents": "snd-flatten"
+    }, 
+    {
+      "trigger": "snd-flute", 
+      "contents": "snd-flute"
+    }, 
+    {
+      "trigger": "snd-flute-all", 
+      "contents": "snd-flute-all"
+    }, 
+    {
+      "trigger": "snd-flute-freq", 
+      "contents": "snd-flute-freq"
+    }, 
+    {
+      "trigger": "snd-fmfb", 
+      "contents": "snd-fmfb"
+    }, 
+    {
+      "trigger": "snd-fmfbv", 
+      "contents": "snd-fmfbv"
+    }, 
+    {
+      "trigger": "snd-fmosc", 
+      "contents": "snd-fmosc"
+    }, 
+    {
+      "trigger": "snd-follow", 
+      "contents": "snd-follow"
+    }, 
+    {
+      "trigger": "snd-from-array", 
+      "contents": "snd-from-array"
+    }, 
+    {
+      "trigger": "snd-fromarraystream", 
+      "contents": "snd-fromarraystream"
+    }, 
+    {
+      "trigger": "snd-fromobject", 
+      "contents": "snd-fromobject"
+    }, 
+    {
+      "trigger": "snd-gate", 
+      "contents": "snd-gate"
+    }, 
+    {
+      "trigger": "snd-ifft", 
+      "contents": "snd-ifft"
+    }, 
+    {
+      "trigger": "snd-inverse", 
+      "contents": "snd-inverse"
+    }, 
+    {
+      "trigger": "snd-length", 
+      "contents": "snd-length"
+    }, 
+    {
+      "trigger": "snd-log", 
+      "contents": "snd-log"
+    }, 
+    {
+      "trigger": "snd-lpanal", 
+      "contents": "snd-lpanal"
+    }, 
+    {
+      "trigger": "snd-lpreson", 
+      "contents": "snd-lpreson"
+    }, 
+    {
+      "trigger": "snd-mandolin", 
+      "contents": "snd-mandolin"
+    }, 
+    {
+      "trigger": "snd-max", 
+      "contents": "snd-max"
+    }, 
+    {
+      "trigger": "snd-maxsamp", 
+      "contents": "snd-maxsamp"
+    }, 
+    {
+      "trigger": "snd-maxv", 
+      "contents": "snd-maxv"
+    }, 
+    {
+      "trigger": "snd-modalbar", 
+      "contents": "snd-modalbar"
+    }, 
+    {
+      "trigger": "snd-multiseq", 
+      "contents": "snd-multiseq"
+    }, 
+    {
+      "trigger": "snd-normalize", 
+      "contents": "snd-normalize"
+    }, 
+    {
+      "trigger": "snd-offset", 
+      "contents": "snd-offset"
+    }, 
+    {
+      "trigger": "snd-oneshot", 
+      "contents": "snd-oneshot"
+    }, 
+    {
+      "trigger": "snd-osc", 
+      "contents": "snd-osc"
+    }, 
+    {
+      "trigger": "snd-overwrite", 
+      "contents": "snd-overwrite"
+    }, 
+    {
+      "trigger": "snd-partial", 
+      "contents": "snd-partial"
+    }, 
+    {
+      "trigger": "snd-play", 
+      "contents": "snd-play"
+    }, 
+    {
+      "trigger": "snd-pluck", 
+      "contents": "snd-pluck"
+    }, 
+    {
+      "trigger": "snd-print", 
+      "contents": "snd-print"
+    }, 
+    {
+      "trigger": "snd-print-tree", 
+      "contents": "snd-print-tree"
+    }, 
+    {
+      "trigger": "snd-prod", 
+      "contents": "snd-prod"
+    }, 
+    {
+      "trigger": "snd-pwl", 
+      "contents": "snd-pwl"
+    }, 
+    {
+      "trigger": "snd-quantize", 
+      "contents": "snd-quantize"
+    }, 
+    {
+      "trigger": "snd-read", 
+      "contents": "snd-read"
+    }, 
+    {
+      "trigger": "snd-recip", 
+      "contents": "snd-recip"
+    }, 
+    {
+      "trigger": "snd-resample", 
+      "contents": "snd-resample"
+    }, 
+    {
+      "trigger": "snd-resamplev", 
+      "contents": "snd-resamplev"
+    }, 
+    {
+      "trigger": "snd-reson", 
+      "contents": "snd-reson"
+    }, 
+    {
+      "trigger": "snd-resoncv", 
+      "contents": "snd-resoncv"
+    }, 
+    {
+      "trigger": "snd-resonvc", 
+      "contents": "snd-resonvc"
+    }, 
+    {
+      "trigger": "snd-resonvv", 
+      "contents": "snd-resonvv"
+    }, 
+    {
+      "trigger": "snd-sampler", 
+      "contents": "snd-sampler"
+    }, 
+    {
+      "trigger": "snd-samples", 
+      "contents": "snd-samples"
+    }, 
+    {
+      "trigger": "snd-save", 
+      "contents": "snd-save"
+    }, 
+    {
+      "trigger": "snd-sax", 
+      "contents": "snd-sax"
+    }, 
+    {
+      "trigger": "snd-sax-all", 
+      "contents": "snd-sax-all"
+    }, 
+    {
+      "trigger": "snd-sax-freq", 
+      "contents": "snd-sax-freq"
+    }, 
+    {
+      "trigger": "snd-scale", 
+      "contents": "snd-scale"
+    }, 
+    {
+      "trigger": "snd-seq", 
+      "contents": "snd-seq"
+    }, 
+    {
+      "trigger": "snd-set-latency", 
+      "contents": "snd-set-latency"
+    }, 
+    {
+      "trigger": "snd-set-logical-stop", 
+      "contents": "snd-set-logical-stop"
+    }, 
+    {
+      "trigger": "snd-shape", 
+      "contents": "snd-shape"
+    }, 
+    {
+      "trigger": "snd-sine", 
+      "contents": "snd-sine"
+    }, 
+    {
+      "trigger": "snd-siosc", 
+      "contents": "snd-siosc"
+    }, 
+    {
+      "trigger": "snd-sitar", 
+      "contents": "snd-sitar"
+    }, 
+    {
+      "trigger": "snd-slider", 
+      "contents": "snd-slider"
+    }, 
+    {
+      "trigger": "snd-sqrt", 
+      "contents": "snd-sqrt"
+    }, 
+    {
+      "trigger": "snd-srate", 
+      "contents": "snd-srate"
+    }, 
+    {
+      "trigger": "snd-sref", 
+      "contents": "snd-sref"
+    }, 
+    {
+      "trigger": "snd-stkchorus", 
+      "contents": "snd-stkchorus"
+    }, 
+    {
+      "trigger": "snd-stkpitshift", 
+      "contents": "snd-stkpitshift"
+    }, 
+    {
+      "trigger": "snd-stkrev", 
+      "contents": "snd-stkrev"
+    }, 
+    {
+      "trigger": "snd-stop-time", 
+      "contents": "snd-stop-time"
+    }, 
+    {
+      "trigger": "snd-t0", 
+      "contents": "snd-t0"
+    }, 
+    {
+      "trigger": "snd-tapf", 
+      "contents": "snd-tapf"
+    }, 
+    {
+      "trigger": "snd-tapv", 
+      "contents": "snd-tapv"
+    }, 
+    {
+      "trigger": "snd-time", 
+      "contents": "snd-time"
+    }, 
+    {
+      "trigger": "snd-tone", 
+      "contents": "snd-tone"
+    }, 
+    {
+      "trigger": "snd-tonev", 
+      "contents": "snd-tonev"
+    }, 
+    {
+      "trigger": "snd-trigger", 
+      "contents": "snd-trigger"
+    }, 
+    {
+      "trigger": "snd-up", 
+      "contents": "snd-up"
+    }, 
+    {
+      "trigger": "snd-white", 
+      "contents": "snd-white"
+    }, 
+    {
+      "trigger": "snd-xform", 
+      "contents": "snd-xform"
+    }, 
+    {
+      "trigger": "snd-yin", 
+      "contents": "snd-yin"
+    }, 
+    {
+      "trigger": "snd-zero", 
+      "contents": "snd-zero"
+    }, 
+    {
+      "trigger": "soften-clipping", 
+      "contents": "soften-clipping"
+    }, 
+    {
+      "trigger": "sort", 
+      "contents": "sort"
+    }, 
+    {
+      "trigger": "sound", 
+      "contents": "sound"
+    }, 
+    {
+      "trigger": "sound-off", 
+      "contents": "sound-off"
+    }, 
+    {
+      "trigger": "sound-on", 
+      "contents": "sound-on"
+    }, 
+    {
+      "trigger": "sound-srate-abs", 
+      "contents": "sound-srate-abs"
+    }, 
+    {
+      "trigger": "sound-warp", 
+      "contents": "sound-warp"
+    }, 
+    {
+      "trigger": "soundfilename", 
+      "contents": "soundfilename"
+    }, 
+    {
+      "trigger": "soundp", 
+      "contents": "soundp"
+    }, 
+    {
+      "trigger": "span", 
+      "contents": "span"
+    }, 
+    {
+      "trigger": "speed-dial", 
+      "contents": "speed-dial"
+    }, 
+    {
+      "trigger": "sqrt", 
+      "contents": "sqrt"
+    }, 
+    {
+      "trigger": "sref", 
+      "contents": "sref"
+    }, 
+    {
+      "trigger": "sref-inverse", 
+      "contents": "sref-inverse"
+    }, 
+    {
+      "trigger": "stats", 
+      "contents": "stats"
+    }, 
+    {
+      "trigger": "step-to-hz", 
+      "contents": "step-to-hz"
+    }, 
+    {
+      "trigger": "stereo-chorus", 
+      "contents": "stereo-chorus"
+    }, 
+    {
+      "trigger": "stereoize", 
+      "contents": "stereoize"
+    }, 
+    {
+      "trigger": "stkchorus", 
+      "contents": "stkchorus"
+    }, 
+    {
+      "trigger": "strcat", 
+      "contents": "strcat"
+    }, 
+    {
+      "trigger": "streamp", 
+      "contents": "streamp"
+    }, 
+    {
+      "trigger": "stretch", 
+      "contents": "stretch"
+    }, 
+    {
+      "trigger": "stretch-abs", 
+      "contents": "stretch-abs"
+    }, 
+    {
+      "trigger": "string", 
+      "contents": "string"
+    }, 
+    {
+      "trigger": "string-downcase", 
+      "contents": "string-downcase"
+    }, 
+    {
+      "trigger": "string-equal", 
+      "contents": "string-equal"
+    }, 
+    {
+      "trigger": "string-greaterp", 
+      "contents": "string-greaterp"
+    }, 
+    {
+      "trigger": "string-left-trim", 
+      "contents": "string-left-trim"
+    }, 
+    {
+      "trigger": "string-lessp", 
+      "contents": "string-lessp"
+    }, 
+    {
+      "trigger": "string-not-equal", 
+      "contents": "string-not-equal"
+    }, 
+    {
+      "trigger": "string-not-greaterp", 
+      "contents": "string-not-greaterp"
+    }, 
+    {
+      "trigger": "string-not-lessp", 
+      "contents": "string-not-lessp"
+    }, 
+    {
+      "trigger": "string-right-trim", 
+      "contents": "string-right-trim"
+    }, 
+    {
+      "trigger": "string-search", 
+      "contents": "string-search"
+    }, 
+    {
+      "trigger": "string-trim", 
+      "contents": "string-trim"
+    }, 
+    {
+      "trigger": "string-upcase", 
+      "contents": "string-upcase"
+    }, 
+    {
+      "trigger": "string/=", 
+      "contents": "string/="
+    }, 
+    {
+      "trigger": "string<", 
+      "contents": "string<"
+    }, 
+    {
+      "trigger": "string<=", 
+      "contents": "string<="
+    }, 
+    {
+      "trigger": "string=", 
+      "contents": "string="
+    }, 
+    {
+      "trigger": "string>", 
+      "contents": "string>"
+    }, 
+    {
+      "trigger": "string>=", 
+      "contents": "string>="
+    }, 
+    {
+      "trigger": "stringp", 
+      "contents": "stringp"
+    }, 
+    {
+      "trigger": "sublis", 
+      "contents": "sublis"
+    }, 
+    {
+      "trigger": "subseq", 
+      "contents": "subseq"
+    }, 
+    {
+      "trigger": "subsetp", 
+      "contents": "subsetp"
+    }, 
+    {
+      "trigger": "subst", 
+      "contents": "subst"
+    }, 
+    {
+      "trigger": "sum", 
+      "contents": "sum"
+    }, 
+    {
+      "trigger": "sustain", 
+      "contents": "sustain"
+    }, 
+    {
+      "trigger": "sustain-abs", 
+      "contents": "sustain-abs"
+    }, 
+    {
+      "trigger": "swapchannels", 
+      "contents": "swapchannels"
+    }, 
+    {
+      "trigger": "symbol-function", 
+      "contents": "symbol-function"
+    }, 
+    {
+      "trigger": "symbol-name", 
+      "contents": "symbol-name"
+    }, 
+    {
+      "trigger": "symbol-plist", 
+      "contents": "symbol-plist"
+    }, 
+    {
+      "trigger": "symbol-value", 
+      "contents": "symbol-value"
+    }, 
+    {
+      "trigger": "symbolp", 
+      "contents": "symbolp"
+    }, 
+    {
+      "trigger": "tagbody", 
+      "contents": "tagbody"
+    }, 
+    {
+      "trigger": "tan", 
+      "contents": "tan"
+    }, 
+    {
+      "trigger": "tapv", 
+      "contents": "tapv"
+    }, 
+    {
+      "trigger": "terpri", 
+      "contents": "terpri"
+    }, 
+    {
+      "trigger": "third", 
+      "contents": "third"
+    }, 
+    {
+      "trigger": "throw", 
+      "contents": "throw"
+    }, 
+    {
+      "trigger": "timed-seq", 
+      "contents": "timed-seq"
+    }, 
+    {
+      "trigger": "tone", 
+      "contents": "tone"
+    }, 
+    {
+      "trigger": "top-level)", 
+      "contents": "top-level)"
+    }, 
+    {
+      "trigger": "trace", 
+      "contents": "trace"
+    }, 
+    {
+      "trigger": "transpose", 
+      "contents": "transpose"
+    }, 
+    {
+      "trigger": "transpose-abs", 
+      "contents": "transpose-abs"
+    }, 
+    {
+      "trigger": "trigger", 
+      "contents": "trigger"
+    }, 
+    {
+      "trigger": "truncate", 
+      "contents": "truncate"
+    }, 
+    {
+      "trigger": "type-of", 
+      "contents": "type-of"
+    }, 
+    {
+      "trigger": "union", 
+      "contents": "union"
+    }, 
+    {
+      "trigger": "untrace", 
+      "contents": "untrace"
+    }, 
+    {
+      "trigger": "unwind-protect", 
+      "contents": "unwind-protect"
+    }, 
+    {
+      "trigger": "upper-case-p", 
+      "contents": "upper-case-p"
+    }, 
+    {
+      "trigger": "vector", 
+      "contents": "vector"
+    }, 
+    {
+      "trigger": "vel-to-db", 
+      "contents": "vel-to-db"
+    }, 
+    {
+      "trigger": "warp", 
+      "contents": "warp"
+    }, 
+    {
+      "trigger": "warp-abs", 
+      "contents": "warp-abs"
+    }, 
+    {
+      "trigger": "wg-glass-harm", 
+      "contents": "wg-glass-harm"
+    }, 
+    {
+      "trigger": "wg-tibetan-bowl", 
+      "contents": "wg-tibetan-bowl"
+    }, 
+    {
+      "trigger": "wg-tuned-bar", 
+      "contents": "wg-tuned-bar"
+    }, 
+    {
+      "trigger": "wg-uniform-bar", 
+      "contents": "wg-uniform-bar"
+    }, 
+    {
+      "trigger": "widen", 
+      "contents": "widen"
+    }, 
+    {
+      "trigger": "write-byte", 
+      "contents": "write-byte"
+    }, 
+    {
+      "trigger": "write-char", 
+      "contents": "write-char"
+    }, 
+    {
+      "trigger": "write-float", 
+      "contents": "write-float"
+    }, 
+    {
+      "trigger": "write-int", 
+      "contents": "write-int"
+    }, 
+    {
+      "trigger": "yin", 
+      "contents": "yin"
+    }, 
+    {
+      "trigger": "zerop", 
+      "contents": "zerop"
+    }
+  ]
+}
