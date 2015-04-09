@@ -44,8 +44,8 @@ def build_snippet(text):
 
 
 def make_doc_data():
-    words_file = open("NyquistWords.txt")
-    reserved_file = open("SALKeywords.txt")
+    words_file = open("./NyquistWords.txt")
+    reserved_file = open("./SALKeywords.txt")
     completions_list = []
     # Add reserved keywords to completions
     reserved_line = reserved_file.readline()
@@ -76,3 +76,4 @@ make_doc_data()
 
 with open('SAL.sublime-completions', 'wb') as completions_file:
     json.dump(completions, completions_file, indent=2)
+print "Done"

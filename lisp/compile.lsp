@@ -13,3 +13,7 @@
            (sal-trace-exit))
           (t
            (format t "error loading SAL file ~A~%" filename)))))
+
+(sal-load {SAL_FILE})
+
+(print "SUBLIME.SENTINEL")

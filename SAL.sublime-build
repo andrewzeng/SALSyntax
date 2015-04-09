@@ -1,0 +1,6 @@
+{
+    "target": "sal_exec",
+    "cmd": ["echo", "hi"],
+    /*"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",*/
+    "selector": "source.sal"
+}
