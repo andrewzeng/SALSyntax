@@ -1,0 +1,3835 @@
+{
+    "scope": "source.sal", 
+    "completions": [
+        {
+            "trigger": "loop\tkeyword", 
+            "contents": "loop"
+        }, 
+        {
+            "trigger": "while\tkeyword", 
+            "contents": "while"
+        }, 
+        {
+            "trigger": "for\tkeyword", 
+            "contents": "for"
+        }, 
+        {
+            "trigger": "if\tkeyword", 
+            "contents": "if"
+        }, 
+        {
+            "trigger": "else\tkeyword", 
+            "contents": "else"
+        }, 
+        {
+            "trigger": "then\tkeyword", 
+            "contents": "then"
+        }, 
+        {
+            "trigger": "from\tkeyword", 
+            "contents": "from"
+        }, 
+        {
+            "trigger": "return\tkeyword", 
+            "contents": "return"
+        }, 
+        {
+            "trigger": "by\tkeyword", 
+            "contents": "by"
+        }, 
+        {
+            "trigger": "below\tkeyword", 
+            "contents": "below"
+        }, 
+        {
+            "trigger": "to\tkeyword", 
+            "contents": "to"
+        }, 
+        {
+            "trigger": "above\tkeyword", 
+            "contents": "above"
+        }, 
+        {
+            "trigger": "downto\tkeyword", 
+            "contents": "downto"
+        }, 
+        {
+            "trigger": "begin\tkeyword", 
+            "contents": "begin"
+        }, 
+        {
+            "trigger": "end\tkeyword", 
+            "contents": "end"
+        }, 
+        {
+            "trigger": "when\tkeyword", 
+            "contents": "when"
+        }, 
+        {
+            "trigger": "unless\tkeyword", 
+            "contents": "unless"
+        }, 
+        {
+            "trigger": "repeat\tkeyword", 
+            "contents": "repeat"
+        }, 
+        {
+            "trigger": "until\tkeyword", 
+            "contents": "until"
+        }, 
+        {
+            "trigger": "finally\tkeyword", 
+            "contents": "finally"
+        }, 
+        {
+            "trigger": "in\tkeyword", 
+            "contents": "in"
+        }, 
+        {
+            "trigger": "function\tkeyword", 
+            "contents": "function"
+        }, 
+        {
+            "trigger": "load\tkeyword", 
+            "contents": "load"
+        }, 
+        {
+            "trigger": "define\tkeyword", 
+            "contents": "define"
+        }, 
+        {
+            "trigger": "nil\tkeyword", 
+            "contents": "nil"
+        }, 
+        {
+            "trigger": "exec\tkeyword", 
+            "contents": "exec"
+        }, 
+        {
+            "trigger": "set\tkeyword", 
+            "contents": "set"
+        }, 
+        {
+            "trigger": "play\tkeyword", 
+            "contents": "play"
+        }, 
+        {
+            "trigger": "print\tkeyword", 
+            "contents": "print"
+        }, 
+        {
+            "trigger": "display\tkeyword", 
+            "contents": "display"
+        }, 
+        {
+            "trigger": "exit\tkeyword", 
+            "contents": "exit"
+        }, 
+        {
+            "trigger": "variable\tkeyword", 
+            "contents": "variable"
+        }, 
+        {
+            "trigger": "with\tkeyword", 
+            "contents": "with"
+        }, 
+        {
+            "trigger": "chdir\tkeyword", 
+            "contents": "chdir"
+        }, 
+        {
+            "trigger": "open\tkeyword", 
+            "contents": "open"
+        }, 
+        {
+            "trigger": "\tglobal", 
+            "location": "part19.html#index1516\n", 
+            "contents": "*"
+        }, 
+        {
+            "trigger": "a4-hertz\tglobal", 
+            "location": "part9.html#index801\n", 
+            "contents": "*a4-hertz*"
+        }, 
+        {
+            "trigger": "applyhook\tglobal", 
+            "location": "part19.html#index1354\n", 
+            "contents": "*applyhook*"
+        }, 
+        {
+            "trigger": "autonorm\tglobal", 
+            "location": "part9.html#index802\n", 
+            "contents": "*autonorm*"
+        }, 
+        {
+            "trigger": "autonorm-max-samples\tglobal", 
+            "location": "part9.html#index804\n", 
+            "contents": "*autonorm-max-samples*"
+        }, 
+        {
+            "trigger": "autonorm-previous-peak\tglobal", 
+            "location": "part9.html#index805\n", 
+            "contents": "*autonorm-previous-peak*"
+        }, 
+        {
+            "trigger": "autonorm-target\tglobal", 
+            "location": "part9.html#index806\n", 
+            "contents": "*autonorm-target*"
+        }, 
+        {
+            "trigger": "autonorm-type\tglobal", 
+            "location": "part9.html#index807\n", 
+            "contents": "*autonorm-type*"
+        }, 
+        {
+            "trigger": "autonormflag\tglobal", 
+            "location": "part9.html#index803\n", 
+            "contents": "*autonormflag*"
+        }, 
+        {
+            "trigger": "breakenable\tglobal", 
+            "location": "part19.html#index1349\n", 
+            "contents": "*breakenable*"
+        }, 
+        {
+            "trigger": "breakenable\tglobal", 
+            "location": "part19.html#index1349\n", 
+            "contents": "*breakenable*"
+        }, 
+        {
+            "trigger": "clipping-error\tglobal", 
+            "location": "part9.html#index809\n", 
+            "contents": "*clipping-error*"
+        }, 
+        {
+            "trigger": "clipping-threshold\tglobal", 
+            "location": "part9.html#index811\n", 
+            "contents": "*clipping-threshold*"
+        }, 
+        {
+            "trigger": "control-srate\tglobal", 
+            "location": "part9.html#index812\n", 
+            "contents": "*control-srate*"
+        }, 
+        {
+            "trigger": "control-srate\tglobal", 
+            "location": "part9.html#index812\n", 
+            "contents": "*control-srate*"
+        }, 
+        {
+            "trigger": "debug-io\tglobal", 
+            "location": "part19.html#index1348\n", 
+            "contents": "*debug-io*"
+        }, 
+        {
+            "trigger": "default-control-srate\tglobal", 
+            "location": "part9.html#index817\n", 
+            "contents": "*default-control-srate*"
+        }, 
+        {
+            "trigger": "default-plot-file\tglobal", 
+            "location": "part8.html#index640\n", 
+            "contents": "*default-plot-file*"
+        }, 
+        {
+            "trigger": "default-sf-bits\tglobal", 
+            "location": "part9.html#index813\n", 
+            "contents": "*default-sf-bits*"
+        }, 
+        {
+            "trigger": "default-sf-dir\tglobal", 
+            "location": "part9.html#index814\n", 
+            "contents": "*default-sf-dir*"
+        }, 
+        {
+            "trigger": "default-sf-format\tglobal", 
+            "location": "part9.html#index815\n", 
+            "contents": "*default-sf-format*"
+        }, 
+        {
+            "trigger": "default-sf-srate\tglobal", 
+            "location": "part9.html#index816\n", 
+            "contents": "*default-sf-srate*"
+        }, 
+        {
+            "trigger": "default-sound-srate\tglobal", 
+            "location": "part9.html#index818\n", 
+            "contents": "*default-sound-srate*"
+        }, 
+        {
+            "trigger": "error-output\tglobal", 
+            "location": "part19.html#index1346\n", 
+            "contents": "*error-output*"
+        }, 
+        {
+            "trigger": "evalhook\tglobal", 
+            "location": "part19.html#index1353\n", 
+            "contents": "*evalhook*"
+        }, 
+        {
+            "trigger": "file-separator\tglobal", 
+            "location": "part9.html#index819\n", 
+            "contents": "*file-separator*"
+        }, 
+        {
+            "trigger": "float-format\tglobal", 
+            "location": "part19.html#index1360\n", 
+            "contents": "*float-format*"
+        }, 
+        {
+            "trigger": "gc-flag\tglobal", 
+            "location": "part19.html#index1357\n", 
+            "contents": "*gc-flag*"
+        }, 
+        {
+            "trigger": "gc-hook\tglobal", 
+            "location": "part19.html#index1358\n", 
+            "contents": "*gc-hook*"
+        }, 
+        {
+            "trigger": "integer-format\tglobal", 
+            "location": "part19.html#index1359\n", 
+            "contents": "*integer-format*"
+        }, 
+        {
+            "trigger": "loud\tglobal", 
+            "location": "part4.html#index134\n", 
+            "contents": "*loud*"
+        }, 
+        {
+            "trigger": "obarray\tglobal", 
+            "location": "part19.html#index1343\n", 
+            "contents": "*obarray*"
+        }, 
+        {
+            "trigger": "print-case\tglobal", 
+            "location": "part19.html#index1361\n", 
+            "contents": "*print-case*"
+        }, 
+        {
+            "trigger": "readtable\tglobal", 
+            "location": "part19.html#index1355\n", 
+            "contents": "*readtable*"
+        }, 
+        {
+            "trigger": "rslt\tglobal", 
+            "location": "part9.html#index820\n", 
+            "contents": "*rslt*"
+        }, 
+        {
+            "trigger": "sound-srate\tglobal", 
+            "location": "part9.html#index821\n", 
+            "contents": "*sound-srate*"
+        }, 
+        {
+            "trigger": "sound-srate\tglobal", 
+            "location": "part9.html#index821\n", 
+            "contents": "*sound-srate*"
+        }, 
+        {
+            "trigger": "soundenable\tglobal", 
+            "location": "part9.html#index822\n", 
+            "contents": "*soundenable*"
+        }, 
+        {
+            "trigger": "standard-input\tglobal", 
+            "location": "part19.html#index1344\n", 
+            "contents": "*standard-input*"
+        }, 
+        {
+            "trigger": "standard-output\tglobal", 
+            "location": "part19.html#index1345\n", 
+            "contents": "*standard-output*"
+        }, 
+        {
+            "trigger": "start\tglobal", 
+            "location": "part4.html#index137\n", 
+            "contents": "*start*"
+        }, 
+        {
+            "trigger": "stop\tglobal", 
+            "location": "part4.html#index138\n", 
+            "contents": "*stop*"
+        }, 
+        {
+            "trigger": "sustain\tglobal", 
+            "location": "part4.html#index136\n", 
+            "contents": "*sustain*"
+        }, 
+        {
+            "trigger": "table\tglobal", 
+            "location": "part9.html#index800\n", 
+            "contents": "*table*"
+        }, 
+        {
+            "trigger": "trace-output\tglobal", 
+            "location": "part19.html#index1347\n", 
+            "contents": "*trace-output*"
+        }, 
+        {
+            "trigger": "tracelimit\tglobal", 
+            "location": "part19.html#index1352\n", 
+            "contents": "*tracelimit*"
+        }, 
+        {
+            "trigger": "tracelist\tglobal", 
+            "location": "part19.html#index1350\n", 
+            "contents": "*tracelist*"
+        }, 
+        {
+            "trigger": "tracenable\tglobal", 
+            "location": "part19.html#index1351\n", 
+            "contents": "*tracenable*"
+        }, 
+        {
+            "trigger": "tracenable\tglobal", 
+            "location": "part19.html#index1351\n", 
+            "contents": "*tracenable*"
+        }, 
+        {
+            "trigger": "transpose\tglobal", 
+            "location": "part4.html#index135\n", 
+            "contents": "*transpose*"
+        }, 
+        {
+            "trigger": "unbound\tglobal", 
+            "location": "part19.html#index1356\n", 
+            "contents": "*unbound*"
+        }, 
+        {
+            "trigger": "warp\tglobal", 
+            "location": "part4.html#index133\n", 
+            "contents": "*warp*"
+        }, 
+        {
+            "trigger": "abs\tfunction", 
+            "location": "part19.html#index1527\n", 
+            "contents": "abs"
+        }, 
+        {
+            "trigger": "abs-env\tfunction", 
+            "location": "part8.html#index557\n", 
+            "contents": "abs-env"
+        }, 
+        {
+            "trigger": "add-action-to-workspace\tfunction", 
+            "location": "part14.html#index1163\n", 
+            "contents": "add-action-to-workspace"
+        }, 
+        {
+            "trigger": "add-to-workspace\tfunction", 
+            "location": "part14.html#index1160\n", 
+            "contents": "add-to-workspace"
+        }, 
+        {
+            "trigger": "address-of\tfunction", 
+            "location": "part19.html#index1668\n", 
+            "contents": "address-of"
+        }, 
+        {
+            "trigger": "agc\tfunction", 
+            "location": "part15.html#index1226\n", 
+            "contents": "agc"
+        }, 
+        {
+            "trigger": "alloc\tfunction", 
+            "location": "part19.html#index1658\n", 
+            "contents": "alloc"
+        }, 
+        {
+            "trigger": "allpass2\tfunction", 
+            "location": "part8.html#index448\n", 
+            "contents": "allpass2"
+        }, 
+        {
+            "trigger": "allpoles-from-lpc\tfunction", 
+            "location": "part12.html#index985\n", 
+            "contents": "allpoles-from-lpc"
+        }, 
+        {
+            "trigger": "alpass\tfunction", 
+            "location": "part8.html#index411\n", 
+            "contents": "alpass"
+        }, 
+        {
+            "trigger": "amosc\tfunction", 
+            "location": "part8.html#index377\n", 
+            "contents": "amosc"
+        }, 
+        {
+            "trigger": "and\tfunction", 
+            "location": "part19.html#index1463\n", 
+            "contents": "and"
+        }, 
+        {
+            "trigger": "append\tfunction", 
+            "location": "part19.html#index1409\n", 
+            "contents": "append"
+        }, 
+        {
+            "trigger": "apply\tfunction", 
+            "location": "part19.html#index1364\n", 
+            "contents": "apply"
+        }, 
+        {
+            "trigger": "apply-banded-bass-boost\tfunction", 
+            "location": "part15.html#index1254\n", 
+            "contents": "apply-banded-bass-boost"
+        }, 
+        {
+            "trigger": "apply-banded-delay\tfunction", 
+            "location": "part15.html#index1252\n", 
+            "contents": "apply-banded-delay"
+        }, 
+        {
+            "trigger": "apply-banded-treble-boost\tfunction", 
+            "location": "part15.html#index1256\n", 
+            "contents": "apply-banded-treble-boost"
+        }, 
+        {
+            "trigger": "arc-sine-dist\tfunction", 
+            "location": "part14.html#index1084\n", 
+            "contents": "arc-sine-dist"
+        }, 
+        {
+            "trigger": "aref\tfunction", 
+            "location": "part19.html#index1393\n", 
+            "contents": "aref"
+        }, 
+        {
+            "trigger": "areson\tfunction", 
+            "location": "part8.html#index433\n", 
+            "contents": "areson"
+        }, 
+        {
+            "trigger": "args\tfunction", 
+            "location": "part13.html#index998\n", 
+            "contents": "args"
+        }, 
+        {
+            "trigger": "arrayp\tfunction", 
+            "location": "part19.html#index1447\n", 
+            "contents": "arrayp"
+        }, 
+        {
+            "trigger": "assoc\tfunction", 
+            "location": "part19.html#index1413\n", 
+            "contents": "assoc"
+        }, 
+        {
+            "trigger": "at\tfunction", 
+            "location": "part8.html#index558\n", 
+            "contents": "at"
+        }, 
+        {
+            "trigger": "at-abs\tfunction", 
+            "location": "part8.html#index560\n", 
+            "contents": "at-abs"
+        }, 
+        {
+            "trigger": "atan\tfunction", 
+            "location": "part19.html#index1535\n", 
+            "contents": "atan"
+        }, 
+        {
+            "trigger": "atom\tfunction", 
+            "location": "part19.html#index1435\n", 
+            "contents": "atom"
+        }, 
+        {
+            "trigger": "atone\tfunction", 
+            "location": "part8.html#index428\n", 
+            "contents": "atone"
+        }, 
+        {
+            "trigger": "autonorm-off\tfunction", 
+            "location": "part8.html#index619\n", 
+            "contents": "autonorm-off"
+        }, 
+        {
+            "trigger": "autonorm-on\tfunction", 
+            "location": "part8.html#index618\n", 
+            "contents": "autonorm-on"
+        }, 
+        {
+            "trigger": "backquote\tfunction", 
+            "location": "part19.html#index1368\n", 
+            "contents": "backquote"
+        }, 
+        {
+            "trigger": "baktrace\tfunction", 
+            "location": "part19.html#index1506\n", 
+            "contents": "baktrace"
+        }, 
+        {
+            "trigger": "bandpass2\tfunction", 
+            "location": "part8.html#index446\n", 
+            "contents": "bandpass2"
+        }, 
+        {
+            "trigger": "bernoulli-dist\tfunction", 
+            "location": "part14.html#index1091\n", 
+            "contents": "bernoulli-dist"
+        }, 
+        {
+            "trigger": "beta-dist\tfunction", 
+            "location": "part14.html#index1089\n", 
+            "contents": "beta-dist"
+        }, 
+        {
+            "trigger": "bigendianp\tfunction", 
+            "location": "part19.html#index1664\n", 
+            "contents": "bigendianp"
+        }, 
+        {
+            "trigger": "bilateral-exponential-dist\tfunction", 
+            "location": "part14.html#index1077\n", 
+            "contents": "bilateral-exponential-dist"
+        }, 
+        {
+            "trigger": "binomial-dist\tfunction", 
+            "location": "part14.html#index1093\n", 
+            "contents": "binomial-dist"
+        }, 
+        {
+            "trigger": "biquad\tfunction", 
+            "location": "part8.html#index442\n", 
+            "contents": "biquad"
+        }, 
+        {
+            "trigger": "biquad-m\tfunction", 
+            "location": "part8.html#index443\n", 
+            "contents": "biquad-m"
+        }, 
+        {
+            "trigger": "block\tfunction", 
+            "location": "part19.html#index1486\n", 
+            "contents": "block"
+        }, 
+        {
+            "trigger": "both-case-p\tfunction", 
+            "location": "part19.html#index1580\n", 
+            "contents": "both-case-p"
+        }, 
+        {
+            "trigger": "boundp\tfunction", 
+            "location": "part19.html#index1451\n", 
+            "contents": "boundp"
+        }, 
+        {
+            "trigger": "bowed\tfunction", 
+            "location": "part8.html#index507\n", 
+            "contents": "bowed"
+        }, 
+        {
+            "trigger": "bowed-freq\tfunction", 
+            "location": "part8.html#index509\n", 
+            "contents": "bowed-freq"
+        }, 
+        {
+            "trigger": "break\tfunction", 
+            "location": "part19.html#index1501\n", 
+            "contents": "break"
+        }, 
+        {
+            "trigger": "build-harmonic\tfunction", 
+            "location": "part8.html#index344\n", 
+            "contents": "build-harmonic"
+        }, 
+        {
+            "trigger": "buzz\tfunction", 
+            "location": "part8.html#index381\n", 
+            "contents": "buzz"
+        }, 
+        {
+            "trigger": "car\tfunction", 
+            "location": "part19.html#index1397\n", 
+            "contents": "car"
+        }, 
+        {
+            "trigger": "case\tfunction", 
+            "location": "part19.html#index1468\n", 
+            "contents": "case"
+        }, 
+        {
+            "trigger": "catch\tfunction", 
+            "location": "part19.html#index1474\n", 
+            "contents": "catch"
+        }, 
+        {
+            "trigger": "cauchy-dist\tfunction", 
+            "location": "part14.html#index1079\n", 
+            "contents": "cauchy-dist"
+        }, 
+        {
+            "trigger": "cdr\tfunction", 
+            "location": "part19.html#index1398\n", 
+            "contents": "cdr"
+        }, 
+        {
+            "trigger": "cerror\tfunction", 
+            "location": "part19.html#index1500\n", 
+            "contents": "cerror"
+        }, 
+        {
+            "trigger": "char\tfunction", 
+            "location": "part19.html#index1577\n", 
+            "contents": "char"
+        }, 
+        {
+            "trigger": "char-code\tfunction", 
+            "location": "part19.html#index1582\n", 
+            "contents": "char-code"
+        }, 
+        {
+            "trigger": "char-downcase\tfunction", 
+            "location": "part19.html#index1585\n", 
+            "contents": "char-downcase"
+        }, 
+        {
+            "trigger": "char-equal\tfunction", 
+            "location": "part19.html#index1597\n", 
+            "contents": "char-equal"
+        }, 
+        {
+            "trigger": "char-greaterp\tfunction", 
+            "location": "part19.html#index1600\n", 
+            "contents": "char-greaterp"
+        }, 
+        {
+            "trigger": "char-int\tfunction", 
+            "location": "part19.html#index1587\n", 
+            "contents": "char-int"
+        }, 
+        {
+            "trigger": "char-lessp\tfunction", 
+            "location": "part19.html#index1595\n", 
+            "contents": "char-lessp"
+        }, 
+        {
+            "trigger": "char-not-equal\tfunction", 
+            "location": "part19.html#index1598\n", 
+            "contents": "char-not-equal"
+        }, 
+        {
+            "trigger": "char-not-greaterp\tfunction", 
+            "location": "part19.html#index1596\n", 
+            "contents": "char-not-greaterp"
+        }, 
+        {
+            "trigger": "char-not-lessp\tfunction", 
+            "location": "part19.html#index1599\n", 
+            "contents": "char-not-lessp"
+        }, 
+        {
+            "trigger": "char-upcase\tfunction", 
+            "location": "part19.html#index1584\n", 
+            "contents": "char-upcase"
+        }, 
+        {
+            "trigger": "char/=\tfunction", 
+            "location": "part19.html#index1592\n", 
+            "contents": "char/="
+        }, 
+        {
+            "trigger": "char<\tfunction", 
+            "location": "part19.html#index1589\n", 
+            "contents": "char<"
+        }, 
+        {
+            "trigger": "char<=\tfunction", 
+            "location": "part19.html#index1590\n", 
+            "contents": "char<="
+        }, 
+        {
+            "trigger": "char=\tfunction", 
+            "location": "part19.html#index1591\n", 
+            "contents": "char="
+        }, 
+        {
+            "trigger": "char>\tfunction", 
+            "location": "part19.html#index1594\n", 
+            "contents": "char>"
+        }, 
+        {
+            "trigger": "char>=\tfunction", 
+            "location": "part19.html#index1593\n", 
+            "contents": "char>="
+        }, 
+        {
+            "trigger": "characterp\tfunction", 
+            "location": "part19.html#index1446\n", 
+            "contents": "characterp"
+        }, 
+        {
+            "trigger": "chorus\tfunction", 
+            "location": "part15.html#index1247\n", 
+            "contents": "chorus"
+        }, 
+        {
+            "trigger": "clarinet\tfunction", 
+            "location": "part8.html#index485\n", 
+            "contents": "clarinet"
+        }, 
+        {
+            "trigger": "clarinet-all\tfunction", 
+            "location": "part8.html#index491\n", 
+            "contents": "clarinet-all"
+        }, 
+        {
+            "trigger": "clarinet-freq\tfunction", 
+            "location": "part8.html#index488\n", 
+            "contents": "clarinet-freq"
+        }, 
+        {
+            "trigger": "clean-up)\tfunction", 
+            "location": "part19.html#index1502\n", 
+            "contents": "clean-up)"
+        }, 
+        {
+            "trigger": "clip\tfunction", 
+            "location": "part8.html#index525\n", 
+            "contents": "clip"
+        }, 
+        {
+            "trigger": "close\tfunction", 
+            "location": "part19.html#index1617\n", 
+            "contents": "close"
+        }, 
+        {
+            "trigger": "code-char\tfunction", 
+            "location": "part19.html#index1583\n", 
+            "contents": "code-char"
+        }, 
+        {
+            "trigger": "comb\tfunction", 
+            "location": "part8.html#index412\n", 
+            "contents": "comb"
+        }, 
+        {
+            "trigger": "compress\tfunction", 
+            "location": "part15.html#index1224\n", 
+            "contents": "compress"
+        }, 
+        {
+            "trigger": "compress-map\tfunction", 
+            "location": "part15.html#index1222\n", 
+            "contents": "compress-map"
+        }, 
+        {
+            "trigger": "cond\tfunction", 
+            "location": "part19.html#index1462\n", 
+            "contents": "cond"
+        }, 
+        {
+            "trigger": "congen\tfunction", 
+            "location": "part8.html#index414\n", 
+            "contents": "congen"
+        }, 
+        {
+            "trigger": "cons\tfunction", 
+            "location": "part19.html#index1407\n", 
+            "contents": "cons"
+        }, 
+        {
+            "trigger": "consp\tfunction", 
+            "location": "part19.html#index1442\n", 
+            "contents": "consp"
+        }, 
+        {
+            "trigger": "const\tfunction", 
+            "location": "part8.html#index332\n", 
+            "contents": "const"
+        }, 
+        {
+            "trigger": "continue)\tfunction", 
+            "location": "part19.html#index1504\n", 
+            "contents": "continue)"
+        }, 
+        {
+            "trigger": "continuous-control-warp\tfunction", 
+            "location": "part8.html#index562\n", 
+            "contents": "continuous-control-warp"
+        }, 
+        {
+            "trigger": "continuous-sound-warp\tfunction", 
+            "location": "part8.html#index563\n", 
+            "contents": "continuous-sound-warp"
+        }, 
+        {
+            "trigger": "control\tfunction", 
+            "location": "part8.html#index331\n", 
+            "contents": "control"
+        }, 
+        {
+            "trigger": "control-srate-abs\tfunction", 
+            "location": "part8.html#index564\n", 
+            "contents": "control-srate-abs"
+        }, 
+        {
+            "trigger": "control-warp\tfunction", 
+            "location": "part8.html#index348\n", 
+            "contents": "control-warp"
+        }, 
+        {
+            "trigger": "convolve\tfunction", 
+            "location": "part8.html#index417\n", 
+            "contents": "convolve"
+        }, 
+        {
+            "trigger": "cos\tfunction", 
+            "location": "part19.html#index1533\n", 
+            "contents": "cos"
+        }, 
+        {
+            "trigger": "cue\tfunction", 
+            "location": "part8.html#index328\n", 
+            "contents": "cue"
+        }, 
+        {
+            "trigger": "cue-file\tfunction", 
+            "location": "part8.html#index329\n", 
+            "contents": "cue-file"
+        }, 
+        {
+            "trigger": "current-path\tfunction", 
+            "location": "part13.html#index1010\n", 
+            "contents": "current-path"
+        }, 
+        {
+            "trigger": "cxxr\tfunction", 
+            "location": "part19.html#index1399\n", 
+            "contents": "cxxr"
+        }, 
+        {
+            "trigger": "cxxxr\tfunction", 
+            "location": "part19.html#index1400\n", 
+            "contents": "cxxxr"
+        }, 
+        {
+            "trigger": "cxxxxr\tfunction", 
+            "location": "part19.html#index1401\n", 
+            "contents": "cxxxxr"
+        }, 
+        {
+            "trigger": "db-average\tfunction", 
+            "location": "part15.html#index1223\n", 
+            "contents": "db-average"
+        }, 
+        {
+            "trigger": "db-to-linear\tfunction", 
+            "location": "part8.html#index287\n", 
+            "contents": "db-to-linear"
+        }, 
+        {
+            "trigger": "db-to-vel\tfunction", 
+            "location": "part8.html#index324\n", 
+            "contents": "db-to-vel"
+        }, 
+        {
+            "trigger": "db-to-vel\tfunction", 
+            "location": "part8.html#index324\n", 
+            "contents": "db-to-vel"
+        }, 
+        {
+            "trigger": "decf\tfunction", 
+            "location": "part13.html#index1002\n", 
+            "contents": "decf"
+        }, 
+        {
+            "trigger": "defmacro\tfunction", 
+            "location": "part19.html#index1379\n", 
+            "contents": "defmacro"
+        }, 
+        {
+            "trigger": "defun\tfunction", 
+            "location": "part19.html#index1378\n", 
+            "contents": "defun"
+        }, 
+        {
+            "trigger": "delete\tfunction", 
+            "location": "part19.html#index1430\n", 
+            "contents": "delete"
+        }, 
+        {
+            "trigger": "delete-if\tfunction", 
+            "location": "part19.html#index1431\n", 
+            "contents": "delete-if"
+        }, 
+        {
+            "trigger": "delete-if-not\tfunction", 
+            "location": "part19.html#index1432\n", 
+            "contents": "delete-if-not"
+        }, 
+        {
+            "trigger": "describe\tfunction", 
+            "location": "part14.html#index1162\n", 
+            "contents": "describe"
+        }, 
+        {
+            "trigger": "diff\tfunction", 
+            "location": "part8.html#index596\n", 
+            "contents": "diff"
+        }, 
+        {
+            "trigger": "digit-char\tfunction", 
+            "location": "part19.html#index1586\n", 
+            "contents": "digit-char"
+        }, 
+        {
+            "trigger": "digit-char-p\tfunction", 
+            "location": "part19.html#index1581\n", 
+            "contents": "digit-char-p"
+        }, 
+        {
+            "trigger": "dribble\tfunction", 
+            "location": "part19.html#index1655\n", 
+            "contents": "dribble"
+        }, 
+        {
+            "trigger": "drum\tfunction", 
+            "location": "part15.html#index1297\n", 
+            "contents": "drum"
+        }, 
+        {
+            "trigger": "drum-loop\tfunction", 
+            "location": "part15.html#index1298\n", 
+            "contents": "drum-loop"
+        }, 
+        {
+            "trigger": "dtmf-tone\tfunction", 
+            "location": "part15.html#index1267\n", 
+            "contents": "dtmf-tone"
+        }, 
+        {
+            "trigger": "echoenabled\tfunction", 
+            "location": "part19.html#index1673\n", 
+            "contents": "echoenabled"
+        }, 
+        {
+            "trigger": "endp\tfunction", 
+            "location": "part19.html#index1441\n", 
+            "contents": "endp"
+        }, 
+        {
+            "trigger": "env\tfunction", 
+            "location": "part8.html#index334\n", 
+            "contents": "env"
+        }, 
+        {
+            "trigger": "eq\tfunction", 
+            "location": "part19.html#index1458\n", 
+            "contents": "eq"
+        }, 
+        {
+            "trigger": "eq-band\tfunction", 
+            "location": "part8.html#index453\n", 
+            "contents": "eq-band"
+        }, 
+        {
+            "trigger": "eq-highshelf\tfunction", 
+            "location": "part8.html#index451\n", 
+            "contents": "eq-highshelf"
+        }, 
+        {
+            "trigger": "eq-lowshelf\tfunction", 
+            "location": "part8.html#index449\n", 
+            "contents": "eq-lowshelf"
+        }, 
+        {
+            "trigger": "eql\tfunction", 
+            "location": "part19.html#index1459\n", 
+            "contents": "eql"
+        }, 
+        {
+            "trigger": "equal\tfunction", 
+            "location": "part19.html#index1460\n", 
+            "contents": "equal"
+        }, 
+        {
+            "trigger": "error\tfunction", 
+            "location": "part19.html#index1499\n", 
+            "contents": "error"
+        }, 
+        {
+            "trigger": "errset\tfunction", 
+            "location": "part19.html#index1505\n", 
+            "contents": "errset"
+        }, 
+        {
+            "trigger": "eval\tfunction", 
+            "location": "part19.html#index1363\n", 
+            "contents": "eval"
+        }, 
+        {
+            "trigger": "evalhook\tfunction", 
+            "location": "part19.html#index1509\n", 
+            "contents": "evalhook"
+        }, 
+        {
+            "trigger": "evenp\tfunction", 
+            "location": "part19.html#index1456\n", 
+            "contents": "evenp"
+        }, 
+        {
+            "trigger": "event-dur\tfunction", 
+            "location": "part14.html#index1107\n", 
+            "contents": "event-dur"
+        }, 
+        {
+            "trigger": "event-end\tfunction", 
+            "location": "part14.html#index1111\n", 
+            "contents": "event-end"
+        }, 
+        {
+            "trigger": "event-expression\tfunction", 
+            "location": "part14.html#index1109\n", 
+            "contents": "event-expression"
+        }, 
+        {
+            "trigger": "event-get-attr\tfunction", 
+            "location": "part14.html#index1116\n", 
+            "contents": "event-get-attr"
+        }, 
+        {
+            "trigger": "event-has-attr\tfunction", 
+            "location": "part14.html#index1115\n", 
+            "contents": "event-has-attr"
+        }, 
+        {
+            "trigger": "event-set-attr\tfunction", 
+            "location": "part14.html#index1117\n", 
+            "contents": "event-set-attr"
+        }, 
+        {
+            "trigger": "event-set-dur\tfunction", 
+            "location": "part14.html#index1108\n", 
+            "contents": "event-set-dur"
+        }, 
+        {
+            "trigger": "event-set-expression\tfunction", 
+            "location": "part14.html#index1110\n", 
+            "contents": "event-set-expression"
+        }, 
+        {
+            "trigger": "event-set-time\tfunction", 
+            "location": "part14.html#index1106\n", 
+            "contents": "event-set-time"
+        }, 
+        {
+            "trigger": "event-time\tfunction", 
+            "location": "part14.html#index1105\n", 
+            "contents": "event-time"
+        }, 
+        {
+            "trigger": "exp\tfunction", 
+            "location": "part19.html#index1537\n", 
+            "contents": "exp"
+        }, 
+        {
+            "trigger": "exp-dec\tfunction", 
+            "location": "part8.html#index335\n", 
+            "contents": "exp-dec"
+        }, 
+        {
+            "trigger": "expand\tfunction", 
+            "location": "part19.html#index1657\n", 
+            "contents": "expand"
+        }, 
+        {
+            "trigger": "exponential-dist\tfunction", 
+            "location": "part14.html#index1074\n", 
+            "contents": "exponential-dist"
+        }, 
+        {
+            "trigger": "expr-get-attr\tfunction", 
+            "location": "part14.html#index1113\n", 
+            "contents": "expr-get-attr"
+        }, 
+        {
+            "trigger": "expr-has-attr\tfunction", 
+            "location": "part14.html#index1112\n", 
+            "contents": "expr-has-attr"
+        }, 
+        {
+            "trigger": "expr-set-attr\tfunction", 
+            "location": "part14.html#index1114\n", 
+            "contents": "expr-set-attr"
+        }, 
+        {
+            "trigger": "expt\tfunction", 
+            "location": "part19.html#index1536\n", 
+            "contents": "expt"
+        }, 
+        {
+            "trigger": "extract\tfunction", 
+            "location": "part8.html#index566\n", 
+            "contents": "extract"
+        }, 
+        {
+            "trigger": "extract-abs\tfunction", 
+            "location": "part8.html#index567\n", 
+            "contents": "extract-abs"
+        }, 
+        {
+            "trigger": "fboundp\tfunction", 
+            "location": "part19.html#index1452\n", 
+            "contents": "fboundp"
+        }, 
+        {
+            "trigger": "feedback-delay\tfunction", 
+            "location": "part8.html#index420\n", 
+            "contents": "feedback-delay"
+        }, 
+        {
+            "trigger": "filep\tfunction", 
+            "location": "part19.html#index1450\n", 
+            "contents": "filep"
+        }, 
+        {
+            "trigger": "find-in-xlisp-path\tfunction", 
+            "location": "part19.html#index1631\n", 
+            "contents": "find-in-xlisp-path"
+        }, 
+        {
+            "trigger": "first\tfunction", 
+            "location": "part19.html#index1402\n", 
+            "contents": "first"
+        }, 
+        {
+            "trigger": "flange\tfunction", 
+            "location": "part15.html#index1242\n", 
+            "contents": "flange"
+        }, 
+        {
+            "trigger": "flatc\tfunction", 
+            "location": "part19.html#index1609\n", 
+            "contents": "flatc"
+        }, 
+        {
+            "trigger": "flatsize\tfunction", 
+            "location": "part19.html#index1608\n", 
+            "contents": "flatsize"
+        }, 
+        {
+            "trigger": "float\tfunction", 
+            "location": "part19.html#index1513\n", 
+            "contents": "float"
+        }, 
+        {
+            "trigger": "floatp\tfunction", 
+            "location": "part19.html#index1444\n", 
+            "contents": "floatp"
+        }, 
+        {
+            "trigger": "flute\tfunction", 
+            "location": "part8.html#index501\n", 
+            "contents": "flute"
+        }, 
+        {
+            "trigger": "flute-all\tfunction", 
+            "location": "part8.html#index505\n", 
+            "contents": "flute-all"
+        }, 
+        {
+            "trigger": "flute-freq\tfunction", 
+            "location": "part8.html#index503\n", 
+            "contents": "flute-freq"
+        }, 
+        {
+            "trigger": "fmfb\tfunction", 
+            "location": "part8.html#index379\n", 
+            "contents": "fmfb"
+        }, 
+        {
+            "trigger": "fmlfo\tfunction", 
+            "location": "part8.html#index342\n", 
+            "contents": "fmlfo"
+        }, 
+        {
+            "trigger": "fmosc\tfunction", 
+            "location": "part8.html#index378\n", 
+            "contents": "fmosc"
+        }, 
+        {
+            "trigger": "follow\tfunction", 
+            "location": "part8.html#index289\n", 
+            "contents": "follow"
+        }, 
+        {
+            "trigger": "force-srate\tfunction", 
+            "location": "part8.html#index337\n", 
+            "contents": "force-srate"
+        }, 
+        {
+            "trigger": "format\tfunction", 
+            "location": "part19.html#index1611\n", 
+            "contents": "format"
+        }, 
+        {
+            "trigger": "fourth\tfunction", 
+            "location": "part19.html#index1405\n", 
+            "contents": "fourth"
+        }, 
+        {
+            "trigger": "funcall\tfunction", 
+            "location": "part19.html#index1365\n", 
+            "contents": "funcall"
+        }, 
+        {
+            "trigger": "gamma-dist\tfunction", 
+            "location": "part14.html#index1076\n", 
+            "contents": "gamma-dist"
+        }, 
+        {
+            "trigger": "gate\tfunction", 
+            "location": "part8.html#index293\n", 
+            "contents": "gate"
+        }, 
+        {
+            "trigger": "gaussian-dist\tfunction", 
+            "location": "part14.html#index1087\n", 
+            "contents": "gaussian-dist"
+        }, 
+        {
+            "trigger": "gc\tfunction", 
+            "location": "part19.html#index1656\n", 
+            "contents": "gc"
+        }, 
+        {
+            "trigger": "gcd\tfunction", 
+            "location": "part19.html#index1528\n", 
+            "contents": "gcd"
+        }, 
+        {
+            "trigger": "gensym\tfunction", 
+            "location": "part19.html#index1380\n", 
+            "contents": "gensym"
+        }, 
+        {
+            "trigger": "geometric-dist\tfunction", 
+            "location": "part14.html#index1095\n", 
+            "contents": "geometric-dist"
+        }, 
+        {
+            "trigger": "get\tfunction", 
+            "location": "part19.html#index1389\n", 
+            "contents": "get"
+        }, 
+        {
+            "trigger": "get-duration\tfunction", 
+            "location": "part8.html#index309\n", 
+            "contents": "get-duration"
+        }, 
+        {
+            "trigger": "get-env\tfunction", 
+            "location": "part19.html#index1649\n", 
+            "contents": "get-env"
+        }, 
+        {
+            "trigger": "get-lambda-expression\tfunction", 
+            "location": "part19.html#index1370\n", 
+            "contents": "get-lambda-expression"
+        }, 
+        {
+            "trigger": "get-loud\tfunction", 
+            "location": "part8.html#index310\n", 
+            "contents": "get-loud"
+        }, 
+        {
+            "trigger": "get-output-stream-list\tfunction", 
+            "location": "part19.html#index1647\n", 
+            "contents": "get-output-stream-list"
+        }, 
+        {
+            "trigger": "get-output-stream-string\tfunction", 
+            "location": "part19.html#index1646\n", 
+            "contents": "get-output-stream-string"
+        }, 
+        {
+            "trigger": "get-slider-value\tfunction", 
+            "location": "part8.html#index653\n", 
+            "contents": "get-slider-value"
+        }, 
+        {
+            "trigger": "get-sustain\tfunction", 
+            "location": "part8.html#index311\n", 
+            "contents": "get-sustain"
+        }, 
+        {
+            "trigger": "get-temp-path\tfunction", 
+            "location": "part19.html#index1625\n", 
+            "contents": "get-temp-path"
+        }, 
+        {
+            "trigger": "get-transpose\tfunction", 
+            "location": "part8.html#index312\n", 
+            "contents": "get-transpose"
+        }, 
+        {
+            "trigger": "get-user\tfunction", 
+            "location": "part19.html#index1628\n", 
+            "contents": "get-user"
+        }, 
+        {
+            "trigger": "get-warp\tfunction", 
+            "location": "part8.html#index313\n", 
+            "contents": "get-warp"
+        }, 
+        {
+            "trigger": "go\tfunction", 
+            "location": "part19.html#index1490\n", 
+            "contents": "go"
+        }, 
+        {
+            "trigger": "grindef\tfunction", 
+            "location": "part13.html#index996\n", 
+            "contents": "grindef"
+        }, 
+        {
+            "trigger": "hash\tfunction", 
+            "location": "part19.html#index1387\n", 
+            "contents": "hash"
+        }, 
+        {
+            "trigger": "highpass2\tfunction", 
+            "location": "part8.html#index445\n", 
+            "contents": "highpass2"
+        }, 
+        {
+            "trigger": "highpass4\tfunction", 
+            "location": "part8.html#index458\n", 
+            "contents": "highpass4"
+        }, 
+        {
+            "trigger": "highpass6\tfunction", 
+            "location": "part8.html#index459\n", 
+            "contents": "highpass6"
+        }, 
+        {
+            "trigger": "highpass8\tfunction", 
+            "location": "part8.html#index460\n", 
+            "contents": "highpass8"
+        }, 
+        {
+            "trigger": "hp\tfunction", 
+            "location": "part8.html#index426\n", 
+            "contents": "hp"
+        }, 
+        {
+            "trigger": "hyperbolic-cosine-dist\tfunction", 
+            "location": "part14.html#index1081\n", 
+            "contents": "hyperbolic-cosine-dist"
+        }, 
+        {
+            "trigger": "hz-to-step\tfunction", 
+            "location": "part8.html#index295\n", 
+            "contents": "hz-to-step"
+        }, 
+        {
+            "trigger": "hzosc\tfunction", 
+            "location": "part8.html#index368\n", 
+            "contents": "hzosc"
+        }, 
+        {
+            "trigger": "incf\tfunction", 
+            "location": "part13.html#index1000\n", 
+            "contents": "incf"
+        }, 
+        {
+            "trigger": "info\tfunction", 
+            "location": "part19.html#index1659\n", 
+            "contents": "info"
+        }, 
+        {
+            "trigger": "int-char\tfunction", 
+            "location": "part19.html#index1588\n", 
+            "contents": "int-char"
+        }, 
+        {
+            "trigger": "integerp\tfunction", 
+            "location": "part19.html#index1443\n", 
+            "contents": "integerp"
+        }, 
+        {
+            "trigger": "integrate\tfunction", 
+            "location": "part8.html#index360\n", 
+            "contents": "integrate"
+        }, 
+        {
+            "trigger": "intern\tfunction", 
+            "location": "part19.html#index1381\n", 
+            "contents": "intern"
+        }, 
+        {
+            "trigger": "interpolate\tfunction", 
+            "location": "part14.html#index1167\n", 
+            "contents": "interpolate"
+        }, 
+        {
+            "trigger": "intersection\tfunction", 
+            "location": "part14.html#index1169\n", 
+            "contents": "intersection"
+        }, 
+        {
+            "trigger": "jcrev\tfunction", 
+            "location": "part8.html#index468\n", 
+            "contents": "jcrev"
+        }, 
+        {
+            "trigger": "lambda\tfunction", 
+            "location": "part19.html#index1369\n", 
+            "contents": "lambda"
+        }, 
+        {
+            "trigger": "last\tfunction", 
+            "location": "part19.html#index1411\n", 
+            "contents": "last"
+        }, 
+        {
+            "trigger": "length\tfunction", 
+            "location": "part19.html#index1417\n", 
+            "contents": "length"
+        }, 
+        {
+            "trigger": "length-of-beat\tfunction", 
+            "location": "part15.html#index1299\n", 
+            "contents": "length-of-beat"
+        }, 
+        {
+            "trigger": "lfo\tfunction", 
+            "location": "part8.html#index340\n", 
+            "contents": "lfo"
+        }, 
+        {
+            "trigger": "linear-dist\tfunction", 
+            "location": "part14.html#index1072\n", 
+            "contents": "linear-dist"
+        }, 
+        {
+            "trigger": "linear-to-db\tfunction", 
+            "location": "part8.html#index296\n", 
+            "contents": "linear-to-db"
+        }, 
+        {
+            "trigger": "linear-to-vel\tfunction", 
+            "location": "part8.html#index326\n", 
+            "contents": "linear-to-vel"
+        }, 
+        {
+            "trigger": "list\tfunction", 
+            "location": "part19.html#index1408\n", 
+            "contents": "list"
+        }, 
+        {
+            "trigger": "listdir\tfunction", 
+            "location": "part19.html#index1620\n", 
+            "contents": "listdir"
+        }, 
+        {
+            "trigger": "listp\tfunction", 
+            "location": "part19.html#index1440\n", 
+            "contents": "listp"
+        }, 
+        {
+            "trigger": "local-to-global\tfunction", 
+            "location": "part8.html#index314\n", 
+            "contents": "local-to-global"
+        }, 
+        {
+            "trigger": "log\tfunction", 
+            "location": "part8.html#index299\n", 
+            "contents": "log"
+        }, 
+        {
+            "trigger": "logand\tfunction", 
+            "location": "part19.html#index1546\n", 
+            "contents": "logand"
+        }, 
+        {
+            "trigger": "logior\tfunction", 
+            "location": "part19.html#index1547\n", 
+            "contents": "logior"
+        }, 
+        {
+            "trigger": "logistic-dist\tfunction", 
+            "location": "part14.html#index1082\n", 
+            "contents": "logistic-dist"
+        }, 
+        {
+            "trigger": "lognot\tfunction", 
+            "location": "part19.html#index1549\n", 
+            "contents": "lognot"
+        }, 
+        {
+            "trigger": "logxor\tfunction", 
+            "location": "part19.html#index1548\n", 
+            "contents": "logxor"
+        }, 
+        {
+            "trigger": "loud\tfunction", 
+            "location": "part8.html#index568\n", 
+            "contents": "loud"
+        }, 
+        {
+            "trigger": "loud-abs\tfunction", 
+            "location": "part8.html#index569\n", 
+            "contents": "loud-abs"
+        }, 
+        {
+            "trigger": "lower-case-p\tfunction", 
+            "location": "part19.html#index1579\n", 
+            "contents": "lower-case-p"
+        }, 
+        {
+            "trigger": "lowpass2\tfunction", 
+            "location": "part8.html#index444\n", 
+            "contents": "lowpass2"
+        }, 
+        {
+            "trigger": "lowpass4\tfunction", 
+            "location": "part8.html#index455\n", 
+            "contents": "lowpass4"
+        }, 
+        {
+            "trigger": "lowpass6\tfunction", 
+            "location": "part8.html#index456\n", 
+            "contents": "lowpass6"
+        }, 
+        {
+            "trigger": "lowpass8\tfunction", 
+            "location": "part8.html#index457\n", 
+            "contents": "lowpass8"
+        }, 
+        {
+            "trigger": "lp\tfunction", 
+            "location": "part8.html#index423\n", 
+            "contents": "lp"
+        }, 
+        {
+            "trigger": "lpc-frame-err\tfunction", 
+            "location": "part12.html#index989\n", 
+            "contents": "lpc-frame-err"
+        }, 
+        {
+            "trigger": "lpc-frame-filter-coefs\tfunction", 
+            "location": "part12.html#index990\n", 
+            "contents": "lpc-frame-filter-coefs"
+        }, 
+        {
+            "trigger": "lpc-frame-rms1\tfunction", 
+            "location": "part12.html#index987\n", 
+            "contents": "lpc-frame-rms1"
+        }, 
+        {
+            "trigger": "lpc-frame-rms2\tfunction", 
+            "location": "part12.html#index988\n", 
+            "contents": "lpc-frame-rms2"
+        }, 
+        {
+            "trigger": "lpreson\tfunction", 
+            "location": "part12.html#index986\n", 
+            "contents": "lpreson"
+        }, 
+        {
+            "trigger": "macroexpand\tfunction", 
+            "location": "part19.html#index1371\n", 
+            "contents": "macroexpand"
+        }, 
+        {
+            "trigger": "macroexpand-1\tfunction", 
+            "location": "part19.html#index1372\n", 
+            "contents": "macroexpand-1"
+        }, 
+        {
+            "trigger": "make-accumulate\tfunction", 
+            "location": "part14.html#index1043\n", 
+            "contents": "make-accumulate"
+        }, 
+        {
+            "trigger": "make-accumulation\tfunction", 
+            "location": "part14.html#index1037\n", 
+            "contents": "make-accumulation"
+        }, 
+        {
+            "trigger": "make-array\tfunction", 
+            "location": "part19.html#index1394\n", 
+            "contents": "make-array"
+        }, 
+        {
+            "trigger": "make-copier\tfunction", 
+            "location": "part14.html#index1040\n", 
+            "contents": "make-copier"
+        }, 
+        {
+            "trigger": "make-cycle\tfunction", 
+            "location": "part14.html#index1022\n", 
+            "contents": "make-cycle"
+        }, 
+        {
+            "trigger": "make-eval\tfunction", 
+            "location": "part14.html#index1052\n", 
+            "contents": "make-eval"
+        }, 
+        {
+            "trigger": "make-heap\tfunction", 
+            "location": "part14.html#index1034\n", 
+            "contents": "make-heap"
+        }, 
+        {
+            "trigger": "make-length\tfunction", 
+            "location": "part14.html#index1059\n", 
+            "contents": "make-length"
+        }, 
+        {
+            "trigger": "make-line\tfunction", 
+            "location": "part14.html#index1025\n", 
+            "contents": "make-line"
+        }, 
+        {
+            "trigger": "make-lpanal-iterator\tfunction", 
+            "location": "part12.html#index981\n", 
+            "contents": "make-lpanal-iterator"
+        }, 
+        {
+            "trigger": "make-lpc-file-iterator\tfunction", 
+            "location": "part12.html#index982\n", 
+            "contents": "make-lpc-file-iterator"
+        }, 
+        {
+            "trigger": "make-markov\tfunction", 
+            "location": "part14.html#index1063\n", 
+            "contents": "make-markov"
+        }, 
+        {
+            "trigger": "make-palindrome\tfunction", 
+            "location": "part14.html#index1031\n", 
+            "contents": "make-palindrome"
+        }, 
+        {
+            "trigger": "make-product\tfunction", 
+            "location": "part14.html#index1049\n", 
+            "contents": "make-product"
+        }, 
+        {
+            "trigger": "make-random\tfunction", 
+            "location": "part14.html#index1028\n", 
+            "contents": "make-random"
+        }, 
+        {
+            "trigger": "make-string-input-stream\tfunction", 
+            "location": "part19.html#index1644\n", 
+            "contents": "make-string-input-stream"
+        }, 
+        {
+            "trigger": "make-string-output-stream)\tfunction", 
+            "location": "part19.html#index1645\n", 
+            "contents": "make-string-output-stream)"
+        }, 
+        {
+            "trigger": "make-sum\tfunction", 
+            "location": "part14.html#index1046\n", 
+            "contents": "make-sum"
+        }, 
+        {
+            "trigger": "make-symbol\tfunction", 
+            "location": "part19.html#index1382\n", 
+            "contents": "make-symbol"
+        }, 
+        {
+            "trigger": "make-window\tfunction", 
+            "location": "part14.html#index1062\n", 
+            "contents": "make-window"
+        }, 
+        {
+            "trigger": "maketable\tfunction", 
+            "location": "part8.html#index343\n", 
+            "contents": "maketable"
+        }, 
+        {
+            "trigger": "mandolin\tfunction", 
+            "location": "part8.html#index511\n", 
+            "contents": "mandolin"
+        }, 
+        {
+            "trigger": "mapc\tfunction", 
+            "location": "part19.html#index1420\n", 
+            "contents": "mapc"
+        }, 
+        {
+            "trigger": "mapcar\tfunction", 
+            "location": "part19.html#index1421\n", 
+            "contents": "mapcar"
+        }, 
+        {
+            "trigger": "mapl\tfunction", 
+            "location": "part19.html#index1422\n", 
+            "contents": "mapl"
+        }, 
+        {
+            "trigger": "maplist\tfunction", 
+            "location": "part19.html#index1423\n", 
+            "contents": "maplist"
+        }, 
+        {
+            "trigger": "markov-create-rules\tfunction", 
+            "location": "part14.html#index1066\n", 
+            "contents": "markov-create-rules"
+        }, 
+        {
+            "trigger": "max\tfunction", 
+            "location": "part19.html#index1525\n", 
+            "contents": "max"
+        }, 
+        {
+            "trigger": "member\tfunction", 
+            "location": "part19.html#index1412\n", 
+            "contents": "member"
+        }, 
+        {
+            "trigger": "midi-show\tfunction", 
+            "location": "part15.html#index1262\n", 
+            "contents": "midi-show"
+        }, 
+        {
+            "trigger": "midi-show-file\tfunction", 
+            "location": "part15.html#index1259\n", 
+            "contents": "midi-show-file"
+        }, 
+        {
+            "trigger": "min\tfunction", 
+            "location": "part19.html#index1523\n", 
+            "contents": "min"
+        }, 
+        {
+            "trigger": "minusp\tfunction", 
+            "location": "part19.html#index1453\n", 
+            "contents": "minusp"
+        }, 
+        {
+            "trigger": "modalbar\tfunction", 
+            "location": "part8.html#index521\n", 
+            "contents": "modalbar"
+        }, 
+        {
+            "trigger": "mult\tfunction", 
+            "location": "part8.html#index593\n", 
+            "contents": "mult"
+        }, 
+        {
+            "trigger": "mult\tfunction", 
+            "location": "part8.html#index593\n", 
+            "contents": "mult"
+        }, 
+        {
+            "trigger": "nband\tfunction", 
+            "location": "part15.html#index1233\n", 
+            "contents": "nband"
+        }, 
+        {
+            "trigger": "nband-range\tfunction", 
+            "location": "part15.html#index1230\n", 
+            "contents": "nband-range"
+        }, 
+        {
+            "trigger": "nconc\tfunction", 
+            "location": "part19.html#index1429\n", 
+            "contents": "nconc"
+        }, 
+        {
+            "trigger": "noise\tfunction", 
+            "location": "part8.html#index549\n", 
+            "contents": "noise"
+        }, 
+        {
+            "trigger": "not\tfunction", 
+            "location": "part19.html#index1439\n", 
+            "contents": "not"
+        }, 
+        {
+            "trigger": "notch2\tfunction", 
+            "location": "part8.html#index447\n", 
+            "contents": "notch2"
+        }, 
+        {
+            "trigger": "nrev\tfunction", 
+            "location": "part8.html#index464\n", 
+            "contents": "nrev"
+        }, 
+        {
+            "trigger": "nstring-downcase\tfunction", 
+            "location": "part19.html#index1560\n", 
+            "contents": "nstring-downcase"
+        }, 
+        {
+            "trigger": "nstring-upcase\tfunction", 
+            "location": "part19.html#index1559\n", 
+            "contents": "nstring-upcase"
+        }, 
+        {
+            "trigger": "nth\tfunction", 
+            "location": "part19.html#index1418\n", 
+            "contents": "nth"
+        }, 
+        {
+            "trigger": "nthcdr\tfunction", 
+            "location": "part19.html#index1419\n", 
+            "contents": "nthcdr"
+        }, 
+        {
+            "trigger": "null\tfunction", 
+            "location": "part19.html#index1438\n", 
+            "contents": "null"
+        }, 
+        {
+            "trigger": "numberp\tfunction", 
+            "location": "part19.html#index1437\n", 
+            "contents": "numberp"
+        }, 
+        {
+            "trigger": "Ny:all\tfunction", 
+            "location": "part2.html#index70\n", 
+            "contents": "Ny:all"
+        }, 
+        {
+            "trigger": "objectp\tfunction", 
+            "location": "part19.html#index1449\n", 
+            "contents": "objectp"
+        }, 
+        {
+            "trigger": "oddp\tfunction", 
+            "location": "part19.html#index1457\n", 
+            "contents": "oddp"
+        }, 
+        {
+            "trigger": "open-binary\tfunction", 
+            "location": "part19.html#index1614\n", 
+            "contents": "open-binary"
+        }, 
+        {
+            "trigger": "or\tfunction", 
+            "location": "part19.html#index1464\n", 
+            "contents": "or"
+        }, 
+        {
+            "trigger": "osc\tfunction", 
+            "location": "part8.html#index365\n", 
+            "contents": "osc"
+        }, 
+        {
+            "trigger": "osc-enable\tfunction", 
+            "location": "part8.html#index315\n", 
+            "contents": "osc-enable"
+        }, 
+        {
+            "trigger": "osc-note\tfunction", 
+            "location": "part8.html#index540\n", 
+            "contents": "osc-note"
+        }, 
+        {
+            "trigger": "osc-pulse\tfunction", 
+            "location": "part8.html#index373\n", 
+            "contents": "osc-pulse"
+        }, 
+        {
+            "trigger": "osc-saw\tfunction", 
+            "location": "part8.html#index369\n", 
+            "contents": "osc-saw"
+        }, 
+        {
+            "trigger": "osc-tri\tfunction", 
+            "location": "part8.html#index371\n", 
+            "contents": "osc-tri"
+        }, 
+        {
+            "trigger": "pan\tfunction", 
+            "location": "part8.html#index351\n", 
+            "contents": "pan"
+        }, 
+        {
+            "trigger": "params-scale\tfunction", 
+            "location": "part14.html#index1166\n", 
+            "contents": "params-scale"
+        }, 
+        {
+            "trigger": "params-transpose\tfunction", 
+            "location": "part14.html#index1165\n", 
+            "contents": "params-transpose"
+        }, 
+        {
+            "trigger": "partial\tfunction", 
+            "location": "part8.html#index366\n", 
+            "contents": "partial"
+        }, 
+        {
+            "trigger": "patternp\tfunction", 
+            "location": "part14.html#index1164\n", 
+            "contents": "patternp"
+        }, 
+        {
+            "trigger": "peak\tfunction", 
+            "location": "part8.html#index698\n", 
+            "contents": "peak"
+        }, 
+        {
+            "trigger": "peek\tfunction", 
+            "location": "part19.html#index1662\n", 
+            "contents": "peek"
+        }, 
+        {
+            "trigger": "peek-char\tfunction", 
+            "location": "part19.html#index1634\n", 
+            "contents": "peek-char"
+        }, 
+        {
+            "trigger": "phaser\tfunction", 
+            "location": "part15.html#index1240\n", 
+            "contents": "phaser"
+        }, 
+        {
+            "trigger": "piano-midi\tfunction", 
+            "location": "part15.html#index1220\n", 
+            "contents": "piano-midi"
+        }, 
+        {
+            "trigger": "piano-midi2file\tfunction", 
+            "location": "part15.html#index1221\n", 
+            "contents": "piano-midi2file"
+        }, 
+        {
+            "trigger": "piano-note\tfunction", 
+            "location": "part15.html#index1217\n", 
+            "contents": "piano-note"
+        }, 
+        {
+            "trigger": "piano-note-2\tfunction", 
+            "location": "part15.html#index1219\n", 
+            "contents": "piano-note-2"
+        }, 
+        {
+            "trigger": "pitshift\tfunction", 
+            "location": "part8.html#index480\n", 
+            "contents": "pitshift"
+        }, 
+        {
+            "trigger": "pl-center\tfunction", 
+            "location": "part15.html#index1289\n", 
+            "contents": "pl-center"
+        }, 
+        {
+            "trigger": "pl-doppler\tfunction", 
+            "location": "part15.html#index1294\n", 
+            "contents": "pl-doppler"
+        }, 
+        {
+            "trigger": "pl-left\tfunction", 
+            "location": "part15.html#index1288\n", 
+            "contents": "pl-left"
+        }, 
+        {
+            "trigger": "pl-pan2d\tfunction", 
+            "location": "part15.html#index1292\n", 
+            "contents": "pl-pan2d"
+        }, 
+        {
+            "trigger": "pl-position\tfunction", 
+            "location": "part15.html#index1293\n", 
+            "contents": "pl-position"
+        }, 
+        {
+            "trigger": "pl-rear\tfunction", 
+            "location": "part15.html#index1291\n", 
+            "contents": "pl-rear"
+        }, 
+        {
+            "trigger": "pl-right\tfunction", 
+            "location": "part15.html#index1290\n", 
+            "contents": "pl-right"
+        }, 
+        {
+            "trigger": "play-file\tfunction", 
+            "location": "part8.html#index617\n", 
+            "contents": "play-file"
+        }, 
+        {
+            "trigger": "pluck\tfunction", 
+            "location": "part8.html#index382\n", 
+            "contents": "pluck"
+        }, 
+        {
+            "trigger": "plusp\tfunction", 
+            "location": "part19.html#index1455\n", 
+            "contents": "plusp"
+        }, 
+        {
+            "trigger": "poisson-dist\tfunction", 
+            "location": "part14.html#index1097\n", 
+            "contents": "poisson-dist"
+        }, 
+        {
+            "trigger": "poke\tfunction", 
+            "location": "part19.html#index1663\n", 
+            "contents": "poke"
+        }, 
+        {
+            "trigger": "pop\tfunction", 
+            "location": "part13.html#index1005\n", 
+            "contents": "pop"
+        }, 
+        {
+            "trigger": "power\tfunction", 
+            "location": "part13.html#index1016\n", 
+            "contents": "power"
+        }, 
+        {
+            "trigger": "pprint\tfunction", 
+            "location": "part19.html#index1606\n", 
+            "contents": "pprint"
+        }, 
+        {
+            "trigger": "prcrev\tfunction", 
+            "location": "part8.html#index472\n", 
+            "contents": "prcrev"
+        }, 
+        {
+            "trigger": "prin1\tfunction", 
+            "location": "part19.html#index1604\n", 
+            "contents": "prin1"
+        }, 
+        {
+            "trigger": "princ\tfunction", 
+            "location": "part19.html#index1605\n", 
+            "contents": "princ"
+        }, 
+        {
+            "trigger": "prod\tfunction", 
+            "location": "part8.html#index353\n", 
+            "contents": "prod"
+        }, 
+        {
+            "trigger": "prod\tfunction", 
+            "location": "part8.html#index353\n", 
+            "contents": "prod"
+        }, 
+        {
+            "trigger": "profile\tfunction", 
+            "location": "part19.html#index1510\n", 
+            "contents": "profile"
+        }, 
+        {
+            "trigger": "prog1\tfunction", 
+            "location": "part19.html#index1492\n", 
+            "contents": "prog1"
+        }, 
+        {
+            "trigger": "prog2\tfunction", 
+            "location": "part19.html#index1493\n", 
+            "contents": "prog2"
+        }, 
+        {
+            "trigger": "progn\tfunction", 
+            "location": "part19.html#index1494\n", 
+            "contents": "progn"
+        }, 
+        {
+            "trigger": "progv\tfunction", 
+            "location": "part19.html#index1491\n", 
+            "contents": "progv"
+        }, 
+        {
+            "trigger": "prologic\tfunction", 
+            "location": "part15.html#index1285\n", 
+            "contents": "prologic"
+        }, 
+        {
+            "trigger": "psetq\tfunction", 
+            "location": "part19.html#index1376\n", 
+            "contents": "psetq"
+        }, 
+        {
+            "trigger": "push\tfunction", 
+            "location": "part13.html#index1004\n", 
+            "contents": "push"
+        }, 
+        {
+            "trigger": "putprop\tfunction", 
+            "location": "part19.html#index1390\n", 
+            "contents": "putprop"
+        }, 
+        {
+            "trigger": "pwe\tfunction", 
+            "location": "part8.html#index400\n", 
+            "contents": "pwe"
+        }, 
+        {
+            "trigger": "pwe-list\tfunction", 
+            "location": "part8.html#index401\n", 
+            "contents": "pwe-list"
+        }, 
+        {
+            "trigger": "pwer\tfunction", 
+            "location": "part8.html#index404\n", 
+            "contents": "pwer"
+        }, 
+        {
+            "trigger": "pwer-list\tfunction", 
+            "location": "part8.html#index405\n", 
+            "contents": "pwer-list"
+        }, 
+        {
+            "trigger": "pwev\tfunction", 
+            "location": "part8.html#index402\n", 
+            "contents": "pwev"
+        }, 
+        {
+            "trigger": "pwev-list\tfunction", 
+            "location": "part8.html#index403\n", 
+            "contents": "pwev-list"
+        }, 
+        {
+            "trigger": "pwevr\tfunction", 
+            "location": "part8.html#index407\n", 
+            "contents": "pwevr"
+        }, 
+        {
+            "trigger": "pwevr-list\tfunction", 
+            "location": "part8.html#index408\n", 
+            "contents": "pwevr-list"
+        }, 
+        {
+            "trigger": "pwl\tfunction", 
+            "location": "part8.html#index392\n", 
+            "contents": "pwl"
+        }, 
+        {
+            "trigger": "pwl-list\tfunction", 
+            "location": "part8.html#index393\n", 
+            "contents": "pwl-list"
+        }, 
+        {
+            "trigger": "pwlr\tfunction", 
+            "location": "part8.html#index396\n", 
+            "contents": "pwlr"
+        }, 
+        {
+            "trigger": "pwlr-list\tfunction", 
+            "location": "part8.html#index397\n", 
+            "contents": "pwlr-list"
+        }, 
+        {
+            "trigger": "pwlv\tfunction", 
+            "location": "part8.html#index394\n", 
+            "contents": "pwlv"
+        }, 
+        {
+            "trigger": "pwlv-list\tfunction", 
+            "location": "part8.html#index395\n", 
+            "contents": "pwlv-list"
+        }, 
+        {
+            "trigger": "pwlvr\tfunction", 
+            "location": "part8.html#index398\n", 
+            "contents": "pwlvr"
+        }, 
+        {
+            "trigger": "pwlvr-list\tfunction", 
+            "location": "part8.html#index399\n", 
+            "contents": "pwlvr-list"
+        }, 
+        {
+            "trigger": "quantize\tfunction", 
+            "location": "part8.html#index541\n", 
+            "contents": "quantize"
+        }, 
+        {
+            "trigger": "quote\tfunction", 
+            "location": "part19.html#index1366\n", 
+            "contents": "quote"
+        }, 
+        {
+            "trigger": "ramp\tfunction", 
+            "location": "part11.html#index962\n", 
+            "contents": "ramp"
+        }, 
+        {
+            "trigger": "random\tfunction", 
+            "location": "part19.html#index1529\n", 
+            "contents": "random"
+        }, 
+        {
+            "trigger": "read\tfunction", 
+            "location": "part19.html#index1602\n", 
+            "contents": "read"
+        }, 
+        {
+            "trigger": "read-byte\tfunction", 
+            "location": "part19.html#index1641\n", 
+            "contents": "read-byte"
+        }, 
+        {
+            "trigger": "read-char\tfunction", 
+            "location": "part19.html#index1632\n", 
+            "contents": "read-char"
+        }, 
+        {
+            "trigger": "read-float\tfunction", 
+            "location": "part19.html#index1638\n", 
+            "contents": "read-float"
+        }, 
+        {
+            "trigger": "read-int\tfunction", 
+            "location": "part19.html#index1636\n", 
+            "contents": "read-int"
+        }, 
+        {
+            "trigger": "read-line\tfunction", 
+            "location": "part19.html#index1640\n", 
+            "contents": "read-line"
+        }, 
+        {
+            "trigger": "real-random\tfunction", 
+            "location": "part13.html#index1015\n", 
+            "contents": "real-random"
+        }, 
+        {
+            "trigger": "recip\tfunction", 
+            "location": "part8.html#index544\n", 
+            "contents": "recip"
+        }, 
+        {
+            "trigger": "rem\tfunction", 
+            "location": "part19.html#index1520\n", 
+            "contents": "rem"
+        }, 
+        {
+            "trigger": "remove\tfunction", 
+            "location": "part19.html#index1414\n", 
+            "contents": "remove"
+        }, 
+        {
+            "trigger": "remove-if\tfunction", 
+            "location": "part19.html#index1415\n", 
+            "contents": "remove-if"
+        }, 
+        {
+            "trigger": "remove-if-not\tfunction", 
+            "location": "part19.html#index1416\n", 
+            "contents": "remove-if-not"
+        }, 
+        {
+            "trigger": "remprop\tfunction", 
+            "location": "part19.html#index1391\n", 
+            "contents": "remprop"
+        }, 
+        {
+            "trigger": "require-from\tfunction", 
+            "location": "part13.html#index1008\n", 
+            "contents": "require-from"
+        }, 
+        {
+            "trigger": "resample\tfunction", 
+            "location": "part8.html#index354\n", 
+            "contents": "resample"
+        }, 
+        {
+            "trigger": "reson\tfunction", 
+            "location": "part8.html#index429\n", 
+            "contents": "reson"
+        }, 
+        {
+            "trigger": "rest\tfunction", 
+            "location": "part19.html#index1406\n", 
+            "contents": "rest"
+        }, 
+        {
+            "trigger": "restore\tfunction", 
+            "location": "part19.html#index1654\n", 
+            "contents": "restore"
+        }, 
+        {
+            "trigger": "return-from\tfunction", 
+            "location": "part19.html#index1488\n", 
+            "contents": "return-from"
+        }, 
+        {
+            "trigger": "reverb\tfunction", 
+            "location": "part15.html#index1263\n", 
+            "contents": "reverb"
+        }, 
+        {
+            "trigger": "reverse\tfunction", 
+            "location": "part19.html#index1410\n", 
+            "contents": "reverse"
+        }, 
+        {
+            "trigger": "rms\tfunction", 
+            "location": "part8.html#index543\n", 
+            "contents": "rms"
+        }, 
+        {
+            "trigger": "room\tfunction", 
+            "location": "part19.html#index1660\n", 
+            "contents": "room"
+        }, 
+        {
+            "trigger": "rplaca\tfunction", 
+            "location": "part19.html#index1427\n", 
+            "contents": "rplaca"
+        }, 
+        {
+            "trigger": "rplacd\tfunction", 
+            "location": "part19.html#index1428\n", 
+            "contents": "rplacd"
+        }, 
+        {
+            "trigger": "rrandom\tfunction", 
+            "location": "part19.html#index1530\n", 
+            "contents": "rrandom"
+        }, 
+        {
+            "trigger": "s-abs\tfunction", 
+            "location": "part8.html#index527\n", 
+            "contents": "s-abs"
+        }, 
+        {
+            "trigger": "s-add-to\tfunction", 
+            "location": "part8.html#index629\n", 
+            "contents": "s-add-to"
+        }, 
+        {
+            "trigger": "s-exp\tfunction", 
+            "location": "part8.html#index531\n", 
+            "contents": "s-exp"
+        }, 
+        {
+            "trigger": "s-log\tfunction", 
+            "location": "part8.html#index533\n", 
+            "contents": "s-log"
+        }, 
+        {
+            "trigger": "s-max\tfunction", 
+            "location": "part8.html#index536\n", 
+            "contents": "s-max"
+        }, 
+        {
+            "trigger": "s-min\tfunction", 
+            "location": "part8.html#index538\n", 
+            "contents": "s-min"
+        }, 
+        {
+            "trigger": "s-overwrite\tfunction", 
+            "location": "part8.html#index632\n", 
+            "contents": "s-overwrite"
+        }, 
+        {
+            "trigger": "s-plot\tfunction", 
+            "location": "part8.html#index638\n", 
+            "contents": "s-plot"
+        }, 
+        {
+            "trigger": "s-print-tree\tfunction", 
+            "location": "part8.html#index641\n", 
+            "contents": "s-print-tree"
+        }, 
+        {
+            "trigger": "s-read\tfunction", 
+            "location": "part8.html#index626\n", 
+            "contents": "s-read"
+        }, 
+        {
+            "trigger": "s-read-reverse\tfunction", 
+            "location": "part15.html#index1239\n", 
+            "contents": "s-read-reverse"
+        }, 
+        {
+            "trigger": "s-rest\tfunction", 
+            "location": "part8.html#index548\n", 
+            "contents": "s-rest"
+        }, 
+        {
+            "trigger": "s-reverse\tfunction", 
+            "location": "part15.html#index1235\n", 
+            "contents": "s-reverse"
+        }, 
+        {
+            "trigger": "s-save\tfunction", 
+            "location": "part8.html#index622\n", 
+            "contents": "s-save"
+        }, 
+        {
+            "trigger": "s-sqrt\tfunction", 
+            "location": "part8.html#index529\n", 
+            "contents": "s-sqrt"
+        }, 
+        {
+            "trigger": "sampler\tfunction", 
+            "location": "part8.html#index388\n", 
+            "contents": "sampler"
+        }, 
+        {
+            "trigger": "save\tfunction", 
+            "location": "part19.html#index1653\n", 
+            "contents": "save"
+        }, 
+        {
+            "trigger": "save-lpc-file\tfunction", 
+            "location": "part12.html#index983\n", 
+            "contents": "save-lpc-file"
+        }, 
+        {
+            "trigger": "save-workspace\tfunction", 
+            "location": "part14.html#index1161\n", 
+            "contents": "save-workspace"
+        }, 
+        {
+            "trigger": "sax\tfunction", 
+            "location": "part8.html#index498\n", 
+            "contents": "sax"
+        }, 
+        {
+            "trigger": "sax-all\tfunction", 
+            "location": "part8.html#index499\n", 
+            "contents": "sax-all"
+        }, 
+        {
+            "trigger": "sax-freq\tfunction", 
+            "location": "part8.html#index496\n", 
+            "contents": "sax-freq"
+        }, 
+        {
+            "trigger": "scale\tfunction", 
+            "location": "part8.html#index355\n", 
+            "contents": "scale"
+        }, 
+        {
+            "trigger": "scale-db\tfunction", 
+            "location": "part8.html#index356\n", 
+            "contents": "scale-db"
+        }, 
+        {
+            "trigger": "scale-srate\tfunction", 
+            "location": "part8.html#index357\n", 
+            "contents": "scale-srate"
+        }, 
+        {
+            "trigger": "score-adjacent-events\tfunction", 
+            "location": "part14.html#index1141\n", 
+            "contents": "score-adjacent-events"
+        }, 
+        {
+            "trigger": "score-append\tfunction", 
+            "location": "part14.html#index1127\n", 
+            "contents": "score-append"
+        }, 
+        {
+            "trigger": "score-apply\tfunction", 
+            "location": "part14.html#index1142\n", 
+            "contents": "score-apply"
+        }, 
+        {
+            "trigger": "score-filter-length\tfunction", 
+            "location": "part14.html#index1135\n", 
+            "contents": "score-filter-length"
+        }, 
+        {
+            "trigger": "score-filter-overlap\tfunction", 
+            "location": "part14.html#index1138\n", 
+            "contents": "score-filter-overlap"
+        }, 
+        {
+            "trigger": "score-gen\tfunction", 
+            "location": "part14.html#index1102\n", 
+            "contents": "score-gen"
+        }, 
+        {
+            "trigger": "score-get-begin\tfunction", 
+            "location": "part14.html#index1131\n", 
+            "contents": "score-get-begin"
+        }, 
+        {
+            "trigger": "score-get-end\tfunction", 
+            "location": "part14.html#index1133\n", 
+            "contents": "score-get-end"
+        }, 
+        {
+            "trigger": "score-indexof\tfunction", 
+            "location": "part14.html#index1143\n", 
+            "contents": "score-indexof"
+        }, 
+        {
+            "trigger": "score-last-indexof\tfunction", 
+            "location": "part14.html#index1144\n", 
+            "contents": "score-last-indexof"
+        }, 
+        {
+            "trigger": "score-merge\tfunction", 
+            "location": "part14.html#index1126\n", 
+            "contents": "score-merge"
+        }, 
+        {
+            "trigger": "score-must-have-begin-end\tfunction", 
+            "location": "part14.html#index1134\n", 
+            "contents": "score-must-have-begin-end"
+        }, 
+        {
+            "trigger": "score-play\tfunction", 
+            "location": "part14.html#index1140\n", 
+            "contents": "score-play"
+        }, 
+        {
+            "trigger": "score-print\tfunction", 
+            "location": "part14.html#index1139\n", 
+            "contents": "score-print"
+        }, 
+        {
+            "trigger": "score-randomize-start\tfunction", 
+            "location": "part14.html#index1145\n", 
+            "contents": "score-randomize-start"
+        }, 
+        {
+            "trigger": "score-read\tfunction", 
+            "location": "part14.html#index1153\n", 
+            "contents": "score-read"
+        }, 
+        {
+            "trigger": "score-read-smf\tfunction", 
+            "location": "part14.html#index1151\n", 
+            "contents": "score-read-smf"
+        }, 
+        {
+            "trigger": "score-repeat\tfunction", 
+            "location": "part14.html#index1136\n", 
+            "contents": "score-repeat"
+        }, 
+        {
+            "trigger": "score-scale\tfunction", 
+            "location": "part14.html#index1123\n", 
+            "contents": "score-scale"
+        }, 
+        {
+            "trigger": "score-select\tfunction", 
+            "location": "part14.html#index1128\n", 
+            "contents": "score-select"
+        }, 
+        {
+            "trigger": "score-set-begin\tfunction", 
+            "location": "part14.html#index1130\n", 
+            "contents": "score-set-begin"
+        }, 
+        {
+            "trigger": "score-set-end\tfunction", 
+            "location": "part14.html#index1132\n", 
+            "contents": "score-set-end"
+        }, 
+        {
+            "trigger": "score-shift\tfunction", 
+            "location": "part14.html#index1120\n", 
+            "contents": "score-shift"
+        }, 
+        {
+            "trigger": "score-sort\tfunction", 
+            "location": "part14.html#index1119\n", 
+            "contents": "score-sort"
+        }, 
+        {
+            "trigger": "score-sorted\tfunction", 
+            "location": "part14.html#index1118\n", 
+            "contents": "score-sorted"
+        }, 
+        {
+            "trigger": "score-stretch\tfunction", 
+            "location": "part14.html#index1121\n", 
+            "contents": "score-stretch"
+        }, 
+        {
+            "trigger": "score-stretch-to-length\tfunction", 
+            "location": "part14.html#index1137\n", 
+            "contents": "score-stretch-to-length"
+        }, 
+        {
+            "trigger": "score-sustain\tfunction", 
+            "location": "part14.html#index1124\n", 
+            "contents": "score-sustain"
+        }, 
+        {
+            "trigger": "score-transpose\tfunction", 
+            "location": "part14.html#index1122\n", 
+            "contents": "score-transpose"
+        }, 
+        {
+            "trigger": "score-voice\tfunction", 
+            "location": "part14.html#index1125\n", 
+            "contents": "score-voice"
+        }, 
+        {
+            "trigger": "score-write\tfunction", 
+            "location": "part14.html#index1157\n", 
+            "contents": "score-write"
+        }, 
+        {
+            "trigger": "score-write-smf\tfunction", 
+            "location": "part14.html#index1155\n", 
+            "contents": "score-write-smf"
+        }, 
+        {
+            "trigger": "second\tfunction", 
+            "location": "part19.html#index1403\n", 
+            "contents": "second"
+        }, 
+        {
+            "trigger": "Self\tfunction", 
+            "location": "part19.html#index1342\n", 
+            "contents": "Self"
+        }, 
+        {
+            "trigger": "seq\tfunction", 
+            "location": "part8.html#index585\n", 
+            "contents": "seq"
+        }, 
+        {
+            "trigger": "seqrep\tfunction", 
+            "location": "part8.html#index586\n", 
+            "contents": "seqrep"
+        }, 
+        {
+            "trigger": "set-control-srate\tfunction", 
+            "location": "part8.html#index300\n", 
+            "contents": "set-control-srate"
+        }, 
+        {
+            "trigger": "set-difference\tfunction", 
+            "location": "part14.html#index1174\n", 
+            "contents": "set-difference"
+        }, 
+        {
+            "trigger": "set-logical-stop\tfunction", 
+            "location": "part8.html#index590\n", 
+            "contents": "set-logical-stop"
+        }, 
+        {
+            "trigger": "set-pitch-names\tfunction", 
+            "location": "part8.html#index304\n", 
+            "contents": "set-pitch-names"
+        }, 
+        {
+            "trigger": "set-sound-srate\tfunction", 
+            "location": "part8.html#index302\n", 
+            "contents": "set-sound-srate"
+        }, 
+        {
+            "trigger": "setdir\tfunction", 
+            "location": "part19.html#index1618\n", 
+            "contents": "setdir"
+        }, 
+        {
+            "trigger": "setf\tfunction", 
+            "location": "part19.html#index1377\n", 
+            "contents": "setf"
+        }, 
+        {
+            "trigger": "setq\tfunction", 
+            "location": "part19.html#index1375\n", 
+            "contents": "setq"
+        }, 
+        {
+            "trigger": "setup-console\tfunction", 
+            "location": "part19.html#index1670\n", 
+            "contents": "setup-console"
+        }, 
+        {
+            "trigger": "sf-granulate\tfunction", 
+            "location": "part15.html#index1258\n", 
+            "contents": "sf-granulate"
+        }, 
+        {
+            "trigger": "sf-info\tfunction", 
+            "location": "part8.html#index635\n", 
+            "contents": "sf-info"
+        }, 
+        {
+            "trigger": "shape\tfunction", 
+            "location": "part8.html#index435\n", 
+            "contents": "shape"
+        }, 
+        {
+            "trigger": "shift-time\tfunction", 
+            "location": "part8.html#index358\n", 
+            "contents": "shift-time"
+        }, 
+        {
+            "trigger": "show-lpc-data\tfunction", 
+            "location": "part12.html#index984\n", 
+            "contents": "show-lpc-data"
+        }, 
+        {
+            "trigger": "sim\tfunction", 
+            "location": "part8.html#index587\n", 
+            "contents": "sim"
+        }, 
+        {
+            "trigger": "simrep\tfunction", 
+            "location": "part8.html#index588\n", 
+            "contents": "simrep"
+        }, 
+        {
+            "trigger": "sin\tfunction", 
+            "location": "part19.html#index1532\n", 
+            "contents": "sin"
+        }, 
+        {
+            "trigger": "sine\tfunction", 
+            "location": "part8.html#index367\n", 
+            "contents": "sine"
+        }, 
+        {
+            "trigger": "siosc\tfunction", 
+            "location": "part8.html#index386\n", 
+            "contents": "siosc"
+        }, 
+        {
+            "trigger": "sitar\tfunction", 
+            "location": "part8.html#index523\n", 
+            "contents": "sitar"
+        }, 
+        {
+            "trigger": "slope\tfunction", 
+            "location": "part8.html#index362\n", 
+            "contents": "slope"
+        }, 
+        {
+            "trigger": "snd-abs\tfunction", 
+            "location": "part8.html#index655\n", 
+            "contents": "snd-abs"
+        }, 
+        {
+            "trigger": "snd-add\tfunction", 
+            "location": "part8.html#index659\n", 
+            "contents": "snd-add"
+        }, 
+        {
+            "trigger": "snd-allpoles\tfunction", 
+            "location": "part12.html#index992\n", 
+            "contents": "snd-allpoles"
+        }, 
+        {
+            "trigger": "snd-alpass\tfunction", 
+            "location": "part8.html#index724\n", 
+            "contents": "snd-alpass"
+        }, 
+        {
+            "trigger": "snd-alpasscv\tfunction", 
+            "location": "part8.html#index725\n", 
+            "contents": "snd-alpasscv"
+        }, 
+        {
+            "trigger": "snd-alpassvv\tfunction", 
+            "location": "part8.html#index726\n", 
+            "contents": "snd-alpassvv"
+        }, 
+        {
+            "trigger": "snd-amosc\tfunction", 
+            "location": "part8.html#index758\n", 
+            "contents": "snd-amosc"
+        }, 
+        {
+            "trigger": "snd-areson\tfunction", 
+            "location": "part8.html#index727\n", 
+            "contents": "snd-areson"
+        }, 
+        {
+            "trigger": "snd-aresoncv\tfunction", 
+            "location": "part8.html#index728\n", 
+            "contents": "snd-aresoncv"
+        }, 
+        {
+            "trigger": "snd-aresonvc\tfunction", 
+            "location": "part8.html#index729\n", 
+            "contents": "snd-aresonvc"
+        }, 
+        {
+            "trigger": "snd-aresonvv\tfunction", 
+            "location": "part8.html#index730\n", 
+            "contents": "snd-aresonvv"
+        }, 
+        {
+            "trigger": "snd-atone\tfunction", 
+            "location": "part8.html#index731\n", 
+            "contents": "snd-atone"
+        }, 
+        {
+            "trigger": "snd-atonev\tfunction", 
+            "location": "part8.html#index732\n", 
+            "contents": "snd-atonev"
+        }, 
+        {
+            "trigger": "snd-avg\tfunction", 
+            "location": "part8.html#index663\n", 
+            "contents": "snd-avg"
+        }, 
+        {
+            "trigger": "snd-bandedwg\tfunction", 
+            "location": "part8.html#index769\n", 
+            "contents": "snd-bandedwg"
+        }, 
+        {
+            "trigger": "snd-biquad\tfunction", 
+            "location": "part8.html#index733\n", 
+            "contents": "snd-biquad"
+        }, 
+        {
+            "trigger": "snd-bowed\tfunction", 
+            "location": "part8.html#index771\n", 
+            "contents": "snd-bowed"
+        }, 
+        {
+            "trigger": "snd-bowed-freq\tfunction", 
+            "location": "part8.html#index773\n", 
+            "contents": "snd-bowed-freq"
+        }, 
+        {
+            "trigger": "snd-buzz\tfunction", 
+            "location": "part8.html#index762\n", 
+            "contents": "snd-buzz"
+        }, 
+        {
+            "trigger": "snd-chase\tfunction", 
+            "location": "part8.html#index734\n", 
+            "contents": "snd-chase"
+        }, 
+        {
+            "trigger": "snd-clarinet\tfunction", 
+            "location": "part8.html#index775\n", 
+            "contents": "snd-clarinet"
+        }, 
+        {
+            "trigger": "snd-clarinet-all\tfunction", 
+            "location": "part8.html#index779\n", 
+            "contents": "snd-clarinet-all"
+        }, 
+        {
+            "trigger": "snd-clarinet-freq\tfunction", 
+            "location": "part8.html#index777\n", 
+            "contents": "snd-clarinet-freq"
+        }, 
+        {
+            "trigger": "snd-clip\tfunction", 
+            "location": "part8.html#index668\n", 
+            "contents": "snd-clip"
+        }, 
+        {
+            "trigger": "snd-compose\tfunction", 
+            "location": "part8.html#index671\n", 
+            "contents": "snd-compose"
+        }, 
+        {
+            "trigger": "snd-congen\tfunction", 
+            "location": "part8.html#index735\n", 
+            "contents": "snd-congen"
+        }, 
+        {
+            "trigger": "snd-const\tfunction", 
+            "location": "part8.html#index644\n", 
+            "contents": "snd-const"
+        }, 
+        {
+            "trigger": "snd-convolve\tfunction", 
+            "location": "part8.html#index736\n", 
+            "contents": "snd-convolve"
+        }, 
+        {
+            "trigger": "snd-copy\tfunction", 
+            "location": "part8.html#index684\n", 
+            "contents": "snd-copy"
+        }, 
+        {
+            "trigger": "snd-coterm\tfunction", 
+            "location": "part8.html#index648\n", 
+            "contents": "snd-coterm"
+        }, 
+        {
+            "trigger": "snd-delay\tfunction", 
+            "location": "part8.html#index737\n", 
+            "contents": "snd-delay"
+        }, 
+        {
+            "trigger": "snd-delaycv\tfunction", 
+            "location": "part8.html#index738\n", 
+            "contents": "snd-delaycv"
+        }, 
+        {
+            "trigger": "snd-down\tfunction", 
+            "location": "part8.html#index686\n", 
+            "contents": "snd-down"
+        }, 
+        {
+            "trigger": "snd-exp\tfunction", 
+            "location": "part8.html#index687\n", 
+            "contents": "snd-exp"
+        }, 
+        {
+            "trigger": "snd-extent\tfunction", 
+            "location": "part8.html#index260\n", 
+            "contents": "snd-extent"
+        }, 
+        {
+            "trigger": "snd-fetch\tfunction", 
+            "location": "part8.html#index263\n", 
+            "contents": "snd-fetch"
+        }, 
+        {
+            "trigger": "snd-fetch-array\tfunction", 
+            "location": "part8.html#index265\n", 
+            "contents": "snd-fetch-array"
+        }, 
+        {
+            "trigger": "snd-fft\tfunction", 
+            "location": "part10.html#index827\n", 
+            "contents": "snd-fft"
+        }, 
+        {
+            "trigger": "snd-flatten\tfunction", 
+            "location": "part8.html#index266\n", 
+            "contents": "snd-flatten"
+        }, 
+        {
+            "trigger": "snd-flute\tfunction", 
+            "location": "part8.html#index780\n", 
+            "contents": "snd-flute"
+        }, 
+        {
+            "trigger": "snd-flute-all\tfunction", 
+            "location": "part8.html#index784\n", 
+            "contents": "snd-flute-all"
+        }, 
+        {
+            "trigger": "snd-flute-freq\tfunction", 
+            "location": "part8.html#index782\n", 
+            "contents": "snd-flute-freq"
+        }, 
+        {
+            "trigger": "snd-fmfb\tfunction", 
+            "location": "part8.html#index760\n", 
+            "contents": "snd-fmfb"
+        }, 
+        {
+            "trigger": "snd-fmfbv\tfunction", 
+            "location": "part8.html#index761\n", 
+            "contents": "snd-fmfbv"
+        }, 
+        {
+            "trigger": "snd-fmosc\tfunction", 
+            "location": "part8.html#index759\n", 
+            "contents": "snd-fmosc"
+        }, 
+        {
+            "trigger": "snd-follow\tfunction", 
+            "location": "part8.html#index688\n", 
+            "contents": "snd-follow"
+        }, 
+        {
+            "trigger": "snd-from-array\tfunction", 
+            "location": "part8.html#index256\n", 
+            "contents": "snd-from-array"
+        }, 
+        {
+            "trigger": "snd-fromarraystream\tfunction", 
+            "location": "part8.html#index257\n", 
+            "contents": "snd-fromarraystream"
+        }, 
+        {
+            "trigger": "snd-fromobject\tfunction", 
+            "location": "part8.html#index258\n", 
+            "contents": "snd-fromobject"
+        }, 
+        {
+            "trigger": "snd-gate\tfunction", 
+            "location": "part8.html#index691\n", 
+            "contents": "snd-gate"
+        }, 
+        {
+            "trigger": "snd-ifft\tfunction", 
+            "location": "part10.html#index829\n", 
+            "contents": "snd-ifft"
+        }, 
+        {
+            "trigger": "snd-inverse\tfunction", 
+            "location": "part8.html#index695\n", 
+            "contents": "snd-inverse"
+        }, 
+        {
+            "trigger": "snd-length\tfunction", 
+            "location": "part8.html#index267\n", 
+            "contents": "snd-length"
+        }, 
+        {
+            "trigger": "snd-log\tfunction", 
+            "location": "part8.html#index696\n", 
+            "contents": "snd-log"
+        }, 
+        {
+            "trigger": "snd-lpanal\tfunction", 
+            "location": "part12.html#index991\n", 
+            "contents": "snd-lpanal"
+        }, 
+        {
+            "trigger": "snd-lpreson\tfunction", 
+            "location": "part12.html#index993\n", 
+            "contents": "snd-lpreson"
+        }, 
+        {
+            "trigger": "snd-mandolin\tfunction", 
+            "location": "part8.html#index786\n", 
+            "contents": "snd-mandolin"
+        }, 
+        {
+            "trigger": "snd-max\tfunction", 
+            "location": "part8.html#index699\n", 
+            "contents": "snd-max"
+        }, 
+        {
+            "trigger": "snd-maxsamp\tfunction", 
+            "location": "part8.html#index268\n", 
+            "contents": "snd-maxsamp"
+        }, 
+        {
+            "trigger": "snd-maxv\tfunction", 
+            "location": "part8.html#index701\n", 
+            "contents": "snd-maxv"
+        }, 
+        {
+            "trigger": "snd-modalbar\tfunction", 
+            "location": "part8.html#index788\n", 
+            "contents": "snd-modalbar"
+        }, 
+        {
+            "trigger": "snd-multiseq\tfunction", 
+            "location": "part8.html#index797\n", 
+            "contents": "snd-multiseq"
+        }, 
+        {
+            "trigger": "snd-normalize\tfunction", 
+            "location": "part8.html#index703\n", 
+            "contents": "snd-normalize"
+        }, 
+        {
+            "trigger": "snd-offset\tfunction", 
+            "location": "part8.html#index660\n", 
+            "contents": "snd-offset"
+        }, 
+        {
+            "trigger": "snd-oneshot\tfunction", 
+            "location": "part8.html#index704\n", 
+            "contents": "snd-oneshot"
+        }, 
+        {
+            "trigger": "snd-osc\tfunction", 
+            "location": "part8.html#index764\n", 
+            "contents": "snd-osc"
+        }, 
+        {
+            "trigger": "snd-overwrite\tfunction", 
+            "location": "part8.html#index647\n", 
+            "contents": "snd-overwrite"
+        }, 
+        {
+            "trigger": "snd-partial\tfunction", 
+            "location": "part8.html#index765\n", 
+            "contents": "snd-partial"
+        }, 
+        {
+            "trigger": "snd-play\tfunction", 
+            "location": "part8.html#index269\n", 
+            "contents": "snd-play"
+        }, 
+        {
+            "trigger": "snd-pluck\tfunction", 
+            "location": "part8.html#index763\n", 
+            "contents": "snd-pluck"
+        }, 
+        {
+            "trigger": "snd-print\tfunction", 
+            "location": "part8.html#index278\n", 
+            "contents": "snd-print"
+        }, 
+        {
+            "trigger": "snd-print-tree\tfunction", 
+            "location": "part8.html#index270\n", 
+            "contents": "snd-print-tree"
+        }, 
+        {
+            "trigger": "snd-prod\tfunction", 
+            "location": "part8.html#index707\n", 
+            "contents": "snd-prod"
+        }, 
+        {
+            "trigger": "snd-pwl\tfunction", 
+            "location": "part8.html#index710\n", 
+            "contents": "snd-pwl"
+        }, 
+        {
+            "trigger": "snd-quantize\tfunction", 
+            "location": "part8.html#index712\n", 
+            "contents": "snd-quantize"
+        }, 
+        {
+            "trigger": "snd-read\tfunction", 
+            "location": "part8.html#index645\n", 
+            "contents": "snd-read"
+        }, 
+        {
+            "trigger": "snd-recip\tfunction", 
+            "location": "part8.html#index713\n", 
+            "contents": "snd-recip"
+        }, 
+        {
+            "trigger": "snd-resample\tfunction", 
+            "location": "part8.html#index714\n", 
+            "contents": "snd-resample"
+        }, 
+        {
+            "trigger": "snd-resamplev\tfunction", 
+            "location": "part8.html#index716\n", 
+            "contents": "snd-resamplev"
+        }, 
+        {
+            "trigger": "snd-reson\tfunction", 
+            "location": "part8.html#index739\n", 
+            "contents": "snd-reson"
+        }, 
+        {
+            "trigger": "snd-resoncv\tfunction", 
+            "location": "part8.html#index740\n", 
+            "contents": "snd-resoncv"
+        }, 
+        {
+            "trigger": "snd-resonvc\tfunction", 
+            "location": "part8.html#index741\n", 
+            "contents": "snd-resonvc"
+        }, 
+        {
+            "trigger": "snd-resonvv\tfunction", 
+            "location": "part8.html#index742\n", 
+            "contents": "snd-resonvv"
+        }, 
+        {
+            "trigger": "snd-sampler\tfunction", 
+            "location": "part8.html#index767\n", 
+            "contents": "snd-sampler"
+        }, 
+        {
+            "trigger": "snd-samples\tfunction", 
+            "location": "part8.html#index272\n", 
+            "contents": "snd-samples"
+        }, 
+        {
+            "trigger": "snd-save\tfunction", 
+            "location": "part8.html#index646\n", 
+            "contents": "snd-save"
+        }, 
+        {
+            "trigger": "snd-sax\tfunction", 
+            "location": "part8.html#index790\n", 
+            "contents": "snd-sax"
+        }, 
+        {
+            "trigger": "snd-sax-all\tfunction", 
+            "location": "part8.html#index793\n", 
+            "contents": "snd-sax-all"
+        }, 
+        {
+            "trigger": "snd-sax-freq\tfunction", 
+            "location": "part8.html#index792\n", 
+            "contents": "snd-sax-freq"
+        }, 
+        {
+            "trigger": "snd-scale\tfunction", 
+            "location": "part8.html#index719\n", 
+            "contents": "snd-scale"
+        }, 
+        {
+            "trigger": "snd-seq\tfunction", 
+            "location": "part8.html#index796\n", 
+            "contents": "snd-seq"
+        }, 
+        {
+            "trigger": "snd-set-latency\tfunction", 
+            "location": "part8.html#index322\n", 
+            "contents": "snd-set-latency"
+        }, 
+        {
+            "trigger": "snd-set-logical-stop\tfunction", 
+            "location": "part8.html#index280\n", 
+            "contents": "snd-set-logical-stop"
+        }, 
+        {
+            "trigger": "snd-shape\tfunction", 
+            "location": "part8.html#index720\n", 
+            "contents": "snd-shape"
+        }, 
+        {
+            "trigger": "snd-sine\tfunction", 
+            "location": "part8.html#index766\n", 
+            "contents": "snd-sine"
+        }, 
+        {
+            "trigger": "snd-siosc\tfunction", 
+            "location": "part8.html#index768\n", 
+            "contents": "snd-siosc"
+        }, 
+        {
+            "trigger": "snd-sitar\tfunction", 
+            "location": "part8.html#index794\n", 
+            "contents": "snd-sitar"
+        }, 
+        {
+            "trigger": "snd-slider\tfunction", 
+            "location": "part8.html#index654\n", 
+            "contents": "snd-slider"
+        }, 
+        {
+            "trigger": "snd-sqrt\tfunction", 
+            "location": "part8.html#index657\n", 
+            "contents": "snd-sqrt"
+        }, 
+        {
+            "trigger": "snd-srate\tfunction", 
+            "location": "part8.html#index275\n", 
+            "contents": "snd-srate"
+        }, 
+        {
+            "trigger": "snd-sref\tfunction", 
+            "location": "part8.html#index281\n", 
+            "contents": "snd-sref"
+        }, 
+        {
+            "trigger": "snd-stkchorus\tfunction", 
+            "location": "part8.html#index743\n", 
+            "contents": "snd-stkchorus"
+        }, 
+        {
+            "trigger": "snd-stkpitshift\tfunction", 
+            "location": "part8.html#index747\n", 
+            "contents": "snd-stkpitshift"
+        }, 
+        {
+            "trigger": "snd-stkrev\tfunction", 
+            "location": "part8.html#index751\n", 
+            "contents": "snd-stkrev"
+        }, 
+        {
+            "trigger": "snd-stop-time\tfunction", 
+            "location": "part8.html#index282\n", 
+            "contents": "snd-stop-time"
+        }, 
+        {
+            "trigger": "snd-t0\tfunction", 
+            "location": "part8.html#index277\n", 
+            "contents": "snd-t0"
+        }, 
+        {
+            "trigger": "snd-tapf\tfunction", 
+            "location": "part8.html#index681\n", 
+            "contents": "snd-tapf"
+        }, 
+        {
+            "trigger": "snd-tapv\tfunction", 
+            "location": "part8.html#index676\n", 
+            "contents": "snd-tapv"
+        }, 
+        {
+            "trigger": "snd-time\tfunction", 
+            "location": "part8.html#index276\n", 
+            "contents": "snd-time"
+        }, 
+        {
+            "trigger": "snd-tone\tfunction", 
+            "location": "part8.html#index755\n", 
+            "contents": "snd-tone"
+        }, 
+        {
+            "trigger": "snd-tonev\tfunction", 
+            "location": "part8.html#index757\n", 
+            "contents": "snd-tonev"
+        }, 
+        {
+            "trigger": "snd-trigger\tfunction", 
+            "location": "part8.html#index798\n", 
+            "contents": "snd-trigger"
+        }, 
+        {
+            "trigger": "snd-up\tfunction", 
+            "location": "part8.html#index721\n", 
+            "contents": "snd-up"
+        }, 
+        {
+            "trigger": "snd-white\tfunction", 
+            "location": "part8.html#index651\n", 
+            "contents": "snd-white"
+        }, 
+        {
+            "trigger": "snd-xform\tfunction", 
+            "location": "part8.html#index722\n", 
+            "contents": "snd-xform"
+        }, 
+        {
+            "trigger": "snd-yin\tfunction", 
+            "location": "part8.html#index723\n", 
+            "contents": "snd-yin"
+        }, 
+        {
+            "trigger": "snd-zero\tfunction", 
+            "location": "part8.html#index652\n", 
+            "contents": "snd-zero"
+        }, 
+        {
+            "trigger": "soften-clipping\tfunction", 
+            "location": "part15.html#index1228\n", 
+            "contents": "soften-clipping"
+        }, 
+        {
+            "trigger": "sort\tfunction", 
+            "location": "part19.html#index1433\n", 
+            "contents": "sort"
+        }, 
+        {
+            "trigger": "sound\tfunction", 
+            "location": "part8.html#index330\n", 
+            "contents": "sound"
+        }, 
+        {
+            "trigger": "sound-off\tfunction", 
+            "location": "part8.html#index621\n", 
+            "contents": "sound-off"
+        }, 
+        {
+            "trigger": "sound-on\tfunction", 
+            "location": "part8.html#index620\n", 
+            "contents": "sound-on"
+        }, 
+        {
+            "trigger": "sound-srate-abs\tfunction", 
+            "location": "part8.html#index570\n", 
+            "contents": "sound-srate-abs"
+        }, 
+        {
+            "trigger": "sound-warp\tfunction", 
+            "location": "part8.html#index359\n", 
+            "contents": "sound-warp"
+        }, 
+        {
+            "trigger": "soundfilename\tfunction", 
+            "location": "part8.html#index637\n", 
+            "contents": "soundfilename"
+        }, 
+        {
+            "trigger": "soundp\tfunction", 
+            "location": "part8.html#index283\n", 
+            "contents": "soundp"
+        }, 
+        {
+            "trigger": "span\tfunction", 
+            "location": "part15.html#index1281\n", 
+            "contents": "span"
+        }, 
+        {
+            "trigger": "speed-dial\tfunction", 
+            "location": "part15.html#index1268\n", 
+            "contents": "speed-dial"
+        }, 
+        {
+            "trigger": "sqrt\tfunction", 
+            "location": "part19.html#index1538\n", 
+            "contents": "sqrt"
+        }, 
+        {
+            "trigger": "sref\tfunction", 
+            "location": "part8.html#index252\n", 
+            "contents": "sref"
+        }, 
+        {
+            "trigger": "sref-inverse\tfunction", 
+            "location": "part8.html#index254\n", 
+            "contents": "sref-inverse"
+        }, 
+        {
+            "trigger": "stats\tfunction", 
+            "location": "part8.html#index284\n", 
+            "contents": "stats"
+        }, 
+        {
+            "trigger": "step-to-hz\tfunction", 
+            "location": "part8.html#index308\n", 
+            "contents": "step-to-hz"
+        }, 
+        {
+            "trigger": "stereo-chorus\tfunction", 
+            "location": "part15.html#index1246\n", 
+            "contents": "stereo-chorus"
+        }, 
+        {
+            "trigger": "stereoize\tfunction", 
+            "location": "part15.html#index1273\n", 
+            "contents": "stereoize"
+        }, 
+        {
+            "trigger": "stkchorus\tfunction", 
+            "location": "part8.html#index476\n", 
+            "contents": "stkchorus"
+        }, 
+        {
+            "trigger": "strcat\tfunction", 
+            "location": "part19.html#index1561\n", 
+            "contents": "strcat"
+        }, 
+        {
+            "trigger": "streamp\tfunction", 
+            "location": "part19.html#index1448\n", 
+            "contents": "streamp"
+        }, 
+        {
+            "trigger": "stretch\tfunction", 
+            "location": "part8.html#index572\n", 
+            "contents": "stretch"
+        }, 
+        {
+            "trigger": "stretch-abs\tfunction", 
+            "location": "part8.html#index573\n", 
+            "contents": "stretch-abs"
+        }, 
+        {
+            "trigger": "string\tfunction", 
+            "location": "part19.html#index1551\n", 
+            "contents": "string"
+        }, 
+        {
+            "trigger": "string-downcase\tfunction", 
+            "location": "part19.html#index1558\n", 
+            "contents": "string-downcase"
+        }, 
+        {
+            "trigger": "string-equal\tfunction", 
+            "location": "part19.html#index1572\n", 
+            "contents": "string-equal"
+        }, 
+        {
+            "trigger": "string-greaterp\tfunction", 
+            "location": "part19.html#index1575\n", 
+            "contents": "string-greaterp"
+        }, 
+        {
+            "trigger": "string-left-trim\tfunction", 
+            "location": "part19.html#index1555\n", 
+            "contents": "string-left-trim"
+        }, 
+        {
+            "trigger": "string-lessp\tfunction", 
+            "location": "part19.html#index1570\n", 
+            "contents": "string-lessp"
+        }, 
+        {
+            "trigger": "string-not-equal\tfunction", 
+            "location": "part19.html#index1573\n", 
+            "contents": "string-not-equal"
+        }, 
+        {
+            "trigger": "string-not-greaterp\tfunction", 
+            "location": "part19.html#index1571\n", 
+            "contents": "string-not-greaterp"
+        }, 
+        {
+            "trigger": "string-not-lessp\tfunction", 
+            "location": "part19.html#index1574\n", 
+            "contents": "string-not-lessp"
+        }, 
+        {
+            "trigger": "string-right-trim\tfunction", 
+            "location": "part19.html#index1556\n", 
+            "contents": "string-right-trim"
+        }, 
+        {
+            "trigger": "string-search\tfunction", 
+            "location": "part19.html#index1552\n", 
+            "contents": "string-search"
+        }, 
+        {
+            "trigger": "string-trim\tfunction", 
+            "location": "part19.html#index1554\n", 
+            "contents": "string-trim"
+        }, 
+        {
+            "trigger": "string-upcase\tfunction", 
+            "location": "part19.html#index1557\n", 
+            "contents": "string-upcase"
+        }, 
+        {
+            "trigger": "string/=\tfunction", 
+            "location": "part19.html#index1567\n", 
+            "contents": "string/="
+        }, 
+        {
+            "trigger": "string<\tfunction", 
+            "location": "part19.html#index1564\n", 
+            "contents": "string<"
+        }, 
+        {
+            "trigger": "string<=\tfunction", 
+            "location": "part19.html#index1565\n", 
+            "contents": "string<="
+        }, 
+        {
+            "trigger": "string=\tfunction", 
+            "location": "part19.html#index1566\n", 
+            "contents": "string="
+        }, 
+        {
+            "trigger": "string>\tfunction", 
+            "location": "part19.html#index1569\n", 
+            "contents": "string>"
+        }, 
+        {
+            "trigger": "string>=\tfunction", 
+            "location": "part19.html#index1568\n", 
+            "contents": "string>="
+        }, 
+        {
+            "trigger": "stringp\tfunction", 
+            "location": "part19.html#index1445\n", 
+            "contents": "stringp"
+        }, 
+        {
+            "trigger": "sublis\tfunction", 
+            "location": "part19.html#index1425\n", 
+            "contents": "sublis"
+        }, 
+        {
+            "trigger": "subseq\tfunction", 
+            "location": "part19.html#index1563\n", 
+            "contents": "subseq"
+        }, 
+        {
+            "trigger": "subsetp\tfunction", 
+            "location": "part14.html#index1175\n", 
+            "contents": "subsetp"
+        }, 
+        {
+            "trigger": "subst\tfunction", 
+            "location": "part19.html#index1424\n", 
+            "contents": "subst"
+        }, 
+        {
+            "trigger": "sum\tfunction", 
+            "location": "part8.html#index591\n", 
+            "contents": "sum"
+        }, 
+        {
+            "trigger": "sustain\tfunction", 
+            "location": "part8.html#index574\n", 
+            "contents": "sustain"
+        }, 
+        {
+            "trigger": "sustain-abs\tfunction", 
+            "location": "part8.html#index578\n", 
+            "contents": "sustain-abs"
+        }, 
+        {
+            "trigger": "swapchannels\tfunction", 
+            "location": "part15.html#index1282\n", 
+            "contents": "swapchannels"
+        }, 
+        {
+            "trigger": "symbol-function\tfunction", 
+            "location": "part19.html#index1385\n", 
+            "contents": "symbol-function"
+        }, 
+        {
+            "trigger": "symbol-name\tfunction", 
+            "location": "part19.html#index1383\n", 
+            "contents": "symbol-name"
+        }, 
+        {
+            "trigger": "symbol-plist\tfunction", 
+            "location": "part19.html#index1386\n", 
+            "contents": "symbol-plist"
+        }, 
+        {
+            "trigger": "symbol-value\tfunction", 
+            "location": "part19.html#index1384\n", 
+            "contents": "symbol-value"
+        }, 
+        {
+            "trigger": "symbolp\tfunction", 
+            "location": "part19.html#index1436\n", 
+            "contents": "symbolp"
+        }, 
+        {
+            "trigger": "tagbody\tfunction", 
+            "location": "part19.html#index1489\n", 
+            "contents": "tagbody"
+        }, 
+        {
+            "trigger": "tan\tfunction", 
+            "location": "part19.html#index1534\n", 
+            "contents": "tan"
+        }, 
+        {
+            "trigger": "tapv\tfunction", 
+            "location": "part8.html#index461\n", 
+            "contents": "tapv"
+        }, 
+        {
+            "trigger": "terpri\tfunction", 
+            "location": "part19.html#index1607\n", 
+            "contents": "terpri"
+        }, 
+        {
+            "trigger": "third\tfunction", 
+            "location": "part19.html#index1404\n", 
+            "contents": "third"
+        }, 
+        {
+            "trigger": "throw\tfunction", 
+            "location": "part19.html#index1475\n", 
+            "contents": "throw"
+        }, 
+        {
+            "trigger": "timed-seq\tfunction", 
+            "location": "part8.html#index598\n", 
+            "contents": "timed-seq"
+        }, 
+        {
+            "trigger": "tone\tfunction", 
+            "location": "part8.html#index425\n", 
+            "contents": "tone"
+        }, 
+        {
+            "trigger": "top-level)\tfunction", 
+            "location": "part19.html#index1503\n", 
+            "contents": "top-level)"
+        }, 
+        {
+            "trigger": "trace\tfunction", 
+            "location": "part19.html#index1497\n", 
+            "contents": "trace"
+        }, 
+        {
+            "trigger": "transpose\tfunction", 
+            "location": "part8.html#index579\n", 
+            "contents": "transpose"
+        }, 
+        {
+            "trigger": "transpose-abs\tfunction", 
+            "location": "part8.html#index580\n", 
+            "contents": "transpose-abs"
+        }, 
+        {
+            "trigger": "trigger\tfunction", 
+            "location": "part8.html#index589\n", 
+            "contents": "trigger"
+        }, 
+        {
+            "trigger": "truncate\tfunction", 
+            "location": "part19.html#index1512\n", 
+            "contents": "truncate"
+        }, 
+        {
+            "trigger": "type-of\tfunction", 
+            "location": "part19.html#index1661\n", 
+            "contents": "type-of"
+        }, 
+        {
+            "trigger": "union\tfunction", 
+            "location": "part14.html#index1171\n", 
+            "contents": "union"
+        }, 
+        {
+            "trigger": "untrace\tfunction", 
+            "location": "part19.html#index1498\n", 
+            "contents": "untrace"
+        }, 
+        {
+            "trigger": "unwind-protect\tfunction", 
+            "location": "part19.html#index1476\n", 
+            "contents": "unwind-protect"
+        }, 
+        {
+            "trigger": "upper-case-p\tfunction", 
+            "location": "part19.html#index1578\n", 
+            "contents": "upper-case-p"
+        }, 
+        {
+            "trigger": "vector\tfunction", 
+            "location": "part19.html#index1395\n", 
+            "contents": "vector"
+        }, 
+        {
+            "trigger": "vel-to-db\tfunction", 
+            "location": "part8.html#index323\n", 
+            "contents": "vel-to-db"
+        }, 
+        {
+            "trigger": "warp\tfunction", 
+            "location": "part8.html#index581\n", 
+            "contents": "warp"
+        }, 
+        {
+            "trigger": "warp-abs\tfunction", 
+            "location": "part8.html#index582\n", 
+            "contents": "warp-abs"
+        }, 
+        {
+            "trigger": "wg-glass-harm\tfunction", 
+            "location": "part8.html#index517\n", 
+            "contents": "wg-glass-harm"
+        }, 
+        {
+            "trigger": "wg-tibetan-bowl\tfunction", 
+            "location": "part8.html#index519\n", 
+            "contents": "wg-tibetan-bowl"
+        }, 
+        {
+            "trigger": "wg-tuned-bar\tfunction", 
+            "location": "part8.html#index515\n", 
+            "contents": "wg-tuned-bar"
+        }, 
+        {
+            "trigger": "wg-uniform-bar\tfunction", 
+            "location": "part8.html#index513\n", 
+            "contents": "wg-uniform-bar"
+        }, 
+        {
+            "trigger": "widen\tfunction", 
+            "location": "part15.html#index1276\n", 
+            "contents": "widen"
+        }, 
+        {
+            "trigger": "write-byte\tfunction", 
+            "location": "part19.html#index1642\n", 
+            "contents": "write-byte"
+        }, 
+        {
+            "trigger": "write-char\tfunction", 
+            "location": "part19.html#index1635\n", 
+            "contents": "write-char"
+        }, 
+        {
+            "trigger": "write-float\tfunction", 
+            "location": "part19.html#index1639\n", 
+            "contents": "write-float"
+        }, 
+        {
+            "trigger": "write-int\tfunction", 
+            "location": "part19.html#index1637\n", 
+            "contents": "write-int"
+        }, 
+        {
+            "trigger": "yin\tfunction", 
+            "location": "part8.html#index550\n", 
+            "contents": "yin"
+        }, 
+        {
+            "trigger": "zerop\tfunction", 
+            "location": "part19.html#index1454\n", 
+            "contents": "zerop"
+        }
+    ]
+}

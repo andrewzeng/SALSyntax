@@ -131,7 +131,7 @@ if sublime3():
 
             if working_dir != "":
                 os.chdir(working_dir)
-            tmp_file_text = sal_build.build_run(cmd)
+            tmp_file_text = sal_build.build_run(cmd, working_dir)
             self.tmp_file_name = cmd + ".tmp~"
             f = open(self.tmp_file_name, "w+")
             f.write(tmp_file_text)
@@ -228,7 +228,7 @@ if sublime3():
             self.append_string(proc, data_str)
 
         def on_finished(self, proc):
-            # Likely called from another thread.
+            #Called from the async process, so can't run immediately.
             sublime.set_timeout(functools.partial(self.finish, proc), 0)
             os.remove(self.tmp_file_name)
             self.proc = None

@@ -31,6 +31,10 @@ def is_sal(text_line):
     return not "(" in text_line
 
 
+def is_global(name):
+    return "*" in name
+
+
 def count_letters(text):
     return sum([int(c.isalpha()) for c in text])
 
@@ -44,14 +48,14 @@ def build_snippet(text):
 
 
 def make_doc_data():
-    words_file = open("./NyquistWords.txt")
-    reserved_file = open("./SALKeywords.txt")
+    words_file = open("./data/NyquistWords.txt")
+    reserved_file = open("./data/SALKeywords.txt")
     completions_list = []
     # Add reserved keywords to completions
     reserved_line = reserved_file.readline()
     while reserved_line != '':
         reserved = reserved_line.strip()
-        completions_list.append({"trigger": reserved,
+        completions_list.append({"trigger": reserved + "\tkeyword",
                                  "contents": reserved})
         reserved_set.add(reserved)
         reserved_line = reserved_file.readline()
@@ -66,8 +70,13 @@ def make_doc_data():
         if is_func(func_name) and is_sal(func_line) and not func_name in reserved_set:
             function_dict[func_name] = DocLine(func_line, html_line)
             function_dict[func_identifier] = DocLine(func_line, html_line)
-            completions_list.append({"trigger": func_name,
-                                     "contents": func_name})
+            completions_list.append({"trigger": func_name + "\tfunction",
+                                     "contents": func_name,
+                                     "location": html_line})
+        if is_global(func_name) and is_sal(func_line):
+            completions_list.append({"trigger": func_name.replace("*", "") + "\tglobal",
+                                     "contents": func_name,
+                                     "location": html_line})
         func_line = words_file.readline()
     completions['completions'] = completions_list
 
@@ -75,5 +84,5 @@ def make_doc_data():
 make_doc_data()
 
 with open('SAL.sublime-completions', 'wb') as completions_file:
-    json.dump(completions, completions_file, indent=2)
+    json.dump(completions, completions_file, indent=4)
 print "Done"
