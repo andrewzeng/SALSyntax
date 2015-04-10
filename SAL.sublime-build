@@ -1,6 +1,7 @@
 {
     "target": "sal_exec",
-    "cmd": ["echo", "hi"],
-    /*"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",*/
+    "cmd": "$file",
+    "file_regex": "^>>> in (.*), line (\\d+), col (\\d+).*$",
+    //"result_file_regex": "^>>> (.*), line (\d+).*$",
     "selector": "source.sal"
 }

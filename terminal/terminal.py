@@ -1,5 +1,5 @@
 import subprocess
-
+import sublime
 
 def run_terminal(sal_file, compile_sal=False):
     proc = subprocess.Popen(['nyquist', '-t', sal_file], stdout=subprocess.PIPE)
