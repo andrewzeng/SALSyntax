@@ -21,7 +21,7 @@ class DocumentationInfo:
     def load():
         if DocumentationInfo.loaded:
             return
-        loaded = json.loads(sublime.load_resource('Packages/SAL/{0}'.format("sal_info/docs.json")))
+        loaded = json.loads(sublime.load_resource('Packages/SALSyntax/{0}'.format("sal_info/docs.json")))
         loaded = OrderedDict(sorted(loaded.items(), key=lambda t: t[0]))
         docs = []
         lines = []
@@ -36,7 +36,7 @@ class DocumentationInfo:
         DocumentationInfo.docs = docs
 
         DocumentationInfo.completion_data = json.loads(
-            sublime.load_resource('Packages/SAL/{0}'.format("sal_info/SAL.sublime-completions")))['completions']
+            sublime.load_resource('Packages/SALSyntax/{0}'.format("sal_info/SAL.sublime-completions")))['completions']
 
         loaded = True
 

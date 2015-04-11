@@ -4,5 +4,5 @@ A language definition for Nyquist SAL along with indentation defaults. Requires 
 
 # Screenshots
 
-![Screenshot](https://github.com/z153/SAL.tmlanguage/raw/master/screenshot.png)
+![Screenshot](https://github.com/z153/SALSyntax/raw/master/screenshot.png)
 

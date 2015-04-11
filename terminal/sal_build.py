@@ -2,7 +2,7 @@ import sublime
 
 
 def load(name):
-    return sublime.load_resource('Packages/SAL/{0}'.format(name))
+    return sublime.load_resource('Packages/SALSyntax/{0}'.format(name))
 
 
 def escape_slashes(directory):
