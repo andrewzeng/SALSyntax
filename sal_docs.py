@@ -15,9 +15,12 @@ class DocumentationInfo:
     doc_lines = None
     dict = None
     completion_data = None
+    loaded = False
 
     @staticmethod
     def load():
+        if DocumentationInfo.loaded:
+            return
         loaded = json.loads(sublime.load_resource('Packages/SAL/{0}'.format("sal_info/docs.json")))
         loaded = OrderedDict(sorted(loaded.items(), key=lambda t: t[0]))
         docs = []
@@ -35,13 +38,23 @@ class DocumentationInfo:
         DocumentationInfo.completion_data = json.loads(
             sublime.load_resource('Packages/SAL/{0}'.format("sal_info/SAL.sublime-completions")))['completions']
 
+        loaded = True
+
 
 
 
 class SalDocCommand(sublime_plugin.WindowCommand):
     def run(self):
+
+        DocumentationInfo.load()
+
         word = None
         view = self.window.active_view()
+
+        context = self.window.extract_variables()
+        if not context['file_extension'] == 'sal':
+            return
+
         for region in view.sel():
             word = view.substr(view.word(region))
         print(word)
@@ -86,4 +99,4 @@ def language(is_sal, is_function):
         return "[LISP]"
 
 
-DocumentationInfo.load()
+
