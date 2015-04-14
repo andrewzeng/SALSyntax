@@ -1,10 +1,10 @@
 from collections import OrderedDict
 import json
 import re
+import webbrowser
 
 import sublime
 import sublime_plugin
-import webbrowser
 
 
 class DocumentationInfo:
@@ -41,14 +41,13 @@ class DocumentationInfo:
         loaded = True
 
 
-
-
 class SalDocCommand(sublime_plugin.WindowCommand):
     def run(self):
 
         DocumentationInfo.load()
 
-        word = None
+        word_line_begin = None
+        word_line_end = None
         view = self.window.active_view()
 
         context = self.window.extract_variables()
@@ -56,9 +55,26 @@ class SalDocCommand(sublime_plugin.WindowCommand):
             return
 
         for region in view.sel():
-            word = view.substr(view.word(region))
-        print(word)
+            region_start = region.a
+            region_end = region.b
+            line_region = view.line(region)
+            line_start = line_region.a
+            line_end = line_region.b
 
+            word_line_begin = view.substr(view.word(sublime.Region(line_start, region_end)))
+            word_line_end = view.substr(view.word(sublime.Region(region_end, line_end)))
+
+        begin_words = re.split("[\s()*]", word_line_begin)
+        end_words = re.split("[\s()*]", word_line_end)
+        begin_word = begin_words[-1]
+        end_word = end_words[0]
+
+        word = begin_word
+        if "-" in end_word:
+            word += re.sub(r"[^-]*-", "-", end_word, count=1)
+
+
+        print(word)
         def on_done(val):
             if val > 0:
                 item = DocumentationInfo.docs[val]
