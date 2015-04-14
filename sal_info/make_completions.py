@@ -39,18 +39,40 @@ def count_letters(text):
     return sum([int(c.isalpha()) for c in text])
 
 
-def build_snippet(text):
-    split_strings = text.split()
-    func_name = split_strings[0]
-    for i in range(1, len(split_strings)):
-        param = split_strings[i]
-    return None
+def _decode_list(data):
+    rv = []
+    for item in data:
+        if isinstance(item, unicode):
+            item = item.encode('utf-8')
+        elif isinstance(item, list):
+            item = _decode_list(item)
+        elif isinstance(item, dict):
+            item = _decode_dict(item)
+        rv.append(item)
+    return rv
+
+
+def _decode_dict(data):
+    rv = {}
+    for key, value in data.iteritems():
+        if isinstance(key, unicode):
+            key = key.encode('utf-8')
+        if isinstance(value, unicode):
+            value = value.encode('utf-8')
+        elif isinstance(value, list):
+            value = _decode_list(value)
+        elif isinstance(value, dict):
+            value = _decode_dict(value)
+        rv[key] = value
+    return rv
 
 
 def make_doc_data():
     words_file = open("./data/NyquistWords.txt")
     reserved_file = open("./data/SALKeywords.txt")
-    completions_list = []
+    custom_file = open("./data/custom_completions.json")
+
+    completions_list = json.loads(custom_file.read(), object_hook=_decode_dict)
     # Add reserved keywords to completions
     reserved_line = reserved_file.readline()
     while reserved_line != '':
@@ -59,6 +81,7 @@ def make_doc_data():
                                  "contents": reserved})
         reserved_set.add(reserved)
         reserved_line = reserved_file.readline()
+
 
     # Add functions to completions
     func_line = words_file.readline()

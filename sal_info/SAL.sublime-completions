@@ -2,6 +2,14 @@
     "scope": "source.sal", 
     "completions": [
         {
+            "trigger": "begin\tfunction block", 
+            "contents": "begin\n\t$1\nend"
+        }, 
+        {
+            "trigger": "loop\tloop block", 
+            "contents": "loop\n\t$1\nend"
+        }, 
+        {
             "trigger": "loop\tkeyword", 
             "contents": "loop"
         }, 
