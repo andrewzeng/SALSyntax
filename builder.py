@@ -100,9 +100,9 @@ if sublime3():
                 self.text_queue_lock.release()
 
             if self.proc:
+                sublime.status_message("Cancelled Build")
                 self.proc.kill()
                 self.proc = None
-                self.append_string(None, "[Cancelled Build]")
                 return
 
             if not hasattr(self, 'output_view'):
@@ -163,7 +163,7 @@ if sublime3():
                 return
             was_empty = False
             try:
-                if proc != self.text_queue_proc:
+                if proc and proc != self.text_queue_proc :
                     if proc:
                         proc.kill()
                     return
