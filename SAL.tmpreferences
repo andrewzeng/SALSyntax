@@ -14,7 +14,7 @@
 		</string>
 		<key>increaseIndentPattern</key>
 		<string>(?x)
-	    ^ \s* (loop|function|begin) .* $
+	    ^ \s* (loop|function|begin)(?![*-:]) .* $
 		</string>
 
 		<key>bracketIndentNextLinePattern</key>
