@@ -1,6 +1,15 @@
 # SAL.tmlanguage
 
-A language definition for Nyquist SAL along with indentation defaults. Requires Sublime Text 3. Includes a build system (`Ctrl + B` to build, run again to cancel) which runs a given file in the nyquist terminal (only supported in Sublime 3) 
+A language definition for Nyquist SAL along with indentation defaults. Requires Sublime Text 3. Also adds a build system and SAL documentation.
+
+# Features
+
+  * Building a SAL file runs the file in a fresh Nyquist terminal instance.
+  
+  * Builds can be cancelled by running the build again.
+  
+  * Pressing `F1` on a built-in function brings up the function parameters in a panel, and full documentation is brought up in a web browser.
+  
 
 # Screenshots
 
