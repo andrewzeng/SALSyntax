@@ -1,6 +1,6 @@
 # SAL.tmlanguage
 
-A language definition for Nyquist SAL along with indentation defaults. Requires Sublime Text 3. Also adds a build system and SAL documentation.
+A language definition for Nyquist SAL along with indentation defaults. Requires Sublime Text 3. Also adds a build system and SAL documentation. This package can be installed by adding this repository to [Package Control](https://packagecontrol.io/).
 
 # Features
 
